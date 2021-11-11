@@ -50,8 +50,8 @@ if (CMAKE_CXX_STANDARD_COMPUTED_DEFAULT STRLESS "11" OR
     set(CMAKE_C_STANDARD_REQUIRED ON)
 endif()
 
-# Stick to the standard 
-set(CMAKE_CXX_EXTENSIONS OFF) 
+# Stick to the standard
+set(CMAKE_CXX_EXTENSIONS OFF)
 set(CMAKE_C_EXTENSIONS OFF)
 
 # Default compiler flags
@@ -194,6 +194,7 @@ set(MOMEMTA_SOURCES
     "modules/FlatTransferFunctionOnTheta.cc"
     "modules/GaussianTransferFunctionOnEnergy.cc"
     "modules/GaussianTransferFunctionOnPt.cc"
+    #"modules/DoubleGaussianTransferFunctionOnPt.cc"
     "modules/Looper.cc"
     "modules/LooperSummer.cc"
     "modules/MatrixElement.cc"

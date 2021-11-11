@@ -1,0 +1,657 @@
+6: [2018-09-24 14:04:10.022] [[34minfo[00m] Event 97 result ttH: 88.8893 +- 1.76296e-41; result ttbb: 71.9337 +- 9.36131e-34 mem: 0.552715
+7: [2018-09-24 14:04:10.022] [[34minfo[00m] Weight computed in 1222ms and 8996ms
+6: [2018-09-24 14:06:03.170] [[34minfo[00m] Event 82 result ttH: 73.5865 +- 3.42106e-35; result ttbb: 74.1845 +- 1.09403e-35 mem: 0.497977
+7: [2018-09-24 14:06:03.170] [[34minfo[00m] Weight computed in 6367ms and 87440ms
+8: [2018-09-24 14:07:35.809] [[34minfo[00m] Event 399 result ttH: 95.9773 +- 7.1134e-45; result ttbb: 76.067 +- 1.8205e-36 mem: 0.557864
+9: [2018-09-24 14:07:35.809] [[34minfo[00m] Weight computed in 10822ms and 81815ms
+10: [2018-09-24 14:11:15.896] [[34minfo[00m] Event 471 result ttH: 73.7139 +- 8.14592e-35; result ttbb: 73.7703 +- 2.64022e-35 mem: 0.499809
+11: [2018-09-24 14:11:15.896] [[34minfo[00m] Weight computed in 1813ms and 218273ms
+12: [2018-09-24 14:11:32.765] [[34minfo[00m] Event 605 result ttH: 75.0391 +- 4.36644e-36; result ttbb: 72.9815 +- 1.40231e-34 mem: 0.50695
+13: [2018-09-24 14:11:32.765] [[34minfo[00m] Weight computed in 9270ms and 7598ms
+8: [2018-09-24 14:11:48.518] [[34minfo[00m] Event 473 result ttH: 76.148 +- 5.73939e-36; result ttbb: 73.027 +- 4.97472e-35 mem: 0.510461
+9: [2018-09-24 14:11:48.518] [[34minfo[00m] Weight computed in 6968ms and 451526ms
+14: [2018-09-24 14:12:01.894] [[34minfo[00m] Event 675 result ttH: 72.9581 +- 1.89234e-34; result ttbb: 72.6009 +- 2.77605e-34 mem: 0.501227
+15: [2018-09-24 14:12:01.894] [[34minfo[00m] Weight computed in 4727ms and 24400ms
+10: [2018-09-24 14:12:57.222] [[34minfo[00m] Event 815 result ttH: 76.5089 +- 1.12742e-36; result ttbb: 73.2162 +- 1.29809e-34 mem: 0.510996
+11: [2018-09-24 14:12:57.222] [[34minfo[00m] Weight computed in 36012ms and 32691ms
+16: [2018-09-24 14:13:28.795] [[34minfo[00m] Event 1191 result ttH: 74.7761 +- 2.82522e-35; result ttbb: 75.4102 +- 1.74441e-36 mem: 0.497889
+17: [2018-09-24 14:13:28.795] [[34minfo[00m] Weight computed in 3443ms and 83454ms
+12: [2018-09-24 14:14:39.946] [[34minfo[00m] Event 1078 result ttH: 74.4812 +- 4.67336e-35; result ttbb: 71.949 +- 1.00719e-33 mem: 0.508646
+13: [2018-09-24 14:14:39.946] [[34minfo[00m] Weight computed in 4218ms and 98504ms
+14: [2018-09-24 14:16:22.299] [[34minfo[00m] Event 1083 result ttH: 73.8666 +- 6.57987e-35; result ttbb: 71.2254 +- 5.22704e-34 mem: 0.509102
+15: [2018-09-24 14:16:22.299] [[34minfo[00m] Weight computed in 11634ms and 90718ms
+16: [2018-09-24 14:16:49.079] [[34minfo[00m] Event 1131 result ttH: 73.2905 +- 2.00879e-34; result ttbb: 69.2756 +- 8.24655e-33 mem: 0.514081
+17: [2018-09-24 14:16:49.079] [[34minfo[00m] Weight computed in 8737ms and 18041ms
+18: [2018-09-24 14:17:48.465] [[34minfo[00m] Event 1139 result ttH: 73.7613 +- 1.48226e-35; result ttbb: 73.3332 +- 5.86511e-35 mem: 0.501455
+19: [2018-09-24 14:17:48.465] [[34minfo[00m] Weight computed in 30262ms and 29123ms
+18: [2018-09-24 14:18:27.603] [[34minfo[00m] Event 1749 result ttH: inf +- 0; result ttbb: 109.437 +- 3.69641e-51 mem: -nan
+19: [2018-09-24 14:18:27.603] [[34minfo[00m] Weight computed in 68ms and 298738ms
+20: [2018-09-24 14:18:42.044] [[34minfo[00m] Event 1994 result ttH: 72.8578 +- 1.54688e-34; result ttbb: 73.2606 +- 1.34514e-34 mem: 0.498622
+21: [2018-09-24 14:18:42.044] [[34minfo[00m] Weight computed in 3486ms and 10953ms
+20: [2018-09-24 14:18:51.185] [[34minfo[00m] Event 1337 result ttH: 79.979 +- 1.9712e-38; result ttbb: 74.9428 +- 2.72487e-35 mem: 0.516254
+21: [2018-09-24 14:18:51.185] [[34minfo[00m] Weight computed in 38153ms and 24566ms
+22: [2018-09-24 14:20:14.823] [[34minfo[00m] Event 1539 result ttH: 80.3218 +- 7.97675e-38; result ttbb: 79.3115 +- 6.35074e-38 mem: 0.503164
+23: [2018-09-24 14:20:14.823] [[34minfo[00m] Weight computed in 17509ms and 66128ms
+22: [2018-09-24 14:21:45.618] [[34minfo[00m] Event 2960 result ttH: 73.3854 +- 9.63277e-35; result ttbb: 73.0518 +- 3.01784e-35 mem: 0.501139
+23: [2018-09-24 14:21:45.618] [[34minfo[00m] Weight computed in 4598ms and 178970ms
+24: [2018-09-24 14:23:12.663] [[34minfo[00m] Event 3250 result ttH: 71.8582 +- 6.57415e-34; result ttbb: 68.8791 +- 6.70872e-32 mem: 0.510584
+25: [2018-09-24 14:23:12.663] [[34minfo[00m] Weight computed in 5141ms and 81900ms
+26: [2018-09-24 14:23:30.151] [[34minfo[00m] Event 4928 result ttH: 84.4346 +- 1.06092e-39; result ttbb: 78.2305 +- 7.81289e-37 mem: 0.51907
+27: [2018-09-24 14:23:30.151] [[34minfo[00m] Weight computed in 1850ms and 15630ms
+24: [2018-09-24 14:33:00.442] [[34minfo[00m] Event 1605 result ttH: 149.187 +- 6.51053e-68; result ttbb: 75.7738 +- 8.09165e-37 mem: 0.663169
+25: [2018-09-24 14:33:00.442] [[34minfo[00m] Weight computed in 10111ms and 755507ms
+26: [2018-09-24 14:37:01.559] [[34minfo[00m] Event 1721 result ttH: 144.02 +- 7.34864e-66; result ttbb: 79.0014 +- 1.41107e-37 mem: 0.645769
+27: [2018-09-24 14:37:01.559] [[34minfo[00m] Weight computed in 101636ms and 139477ms
+28: [2018-09-24 14:39:48.041] [[34minfo[00m] Event 1754 result ttH: 71.8345 +- 1.03298e-34; result ttbb: 68.5499 +- 4.58691e-33 mem: 0.511698
+29: [2018-09-24 14:39:48.041] [[34minfo[00m] Weight computed in 23544ms and 142936ms
+30: [2018-09-24 14:40:59.445] [[34minfo[00m] Event 2953 result ttH: 78.4561 +- 5.46056e-37; result ttbb: 74.1493 +- 2.12136e-35 mem: 0.514111
+31: [2018-09-24 14:40:59.445] [[34minfo[00m] Weight computed in 8768ms and 62631ms
+28: [2018-09-24 14:42:55.091] [[34minfo[00m] Event 5310 result ttH: inf +- 0; result ttbb: 120.465 +- 6.06067e-56 mem: -nan
+29: [2018-09-24 14:42:55.091] [[34minfo[00m] Weight computed in 31ms and 1.1649e+06ms
+30: [2018-09-24 14:43:29.455] [[34minfo[00m] Event 5625 result ttH: 73.2918 +- 1.2809e-34; result ttbb: 72.4029 +- 4.35596e-34 mem: 0.503051
+31: [2018-09-24 14:43:29.455] [[34minfo[00m] Weight computed in 2056ms and 32307ms
+32: [2018-09-24 14:44:19.215] [[34minfo[00m] Event 5648 result ttH: 79.4094 +- 6.86426e-37; result ttbb: 76.4032 +- 3.72923e-36 mem: 0.509647
+33: [2018-09-24 14:44:19.215] [[34minfo[00m] Weight computed in 39155ms and 10604ms
+32: [2018-09-24 14:45:28.902] [[34minfo[00m] Event 3029 result ttH: 71.8027 +- 1.26312e-34; result ttbb: 70.8595 +- 1.31133e-34 mem: 0.503306
+33: [2018-09-24 14:45:28.902] [[34minfo[00m] Weight computed in 40748ms and 228709ms
+34: [2018-09-24 14:46:00.986] [[34minfo[00m] Event 3290 result ttH: 75.0626 +- 2.31172e-35; result ttbb: 71.7852 +- 8.46364e-34 mem: 0.511159
+35: [2018-09-24 14:46:00.986] [[34minfo[00m] Weight computed in 5996ms and 26086ms
+34: [2018-09-24 14:46:13.984] [[34minfo[00m] Event 6380 result ttH: 71.8617 +- 1.66719e-34; result ttbb: 72.0327 +- 1.27858e-34 mem: 0.499406
+35: [2018-09-24 14:46:13.984] [[34minfo[00m] Weight computed in 17256ms and 97507ms
+36: [2018-09-24 14:46:34.926] [[34minfo[00m] Event 6567 result ttH: 72.1998 +- 3.11478e-34; result ttbb: 71.7014 +- 5.44963e-34 mem: 0.501732
+37: [2018-09-24 14:46:34.926] [[34minfo[00m] Weight computed in 3404ms and 17537ms
+36: [2018-09-24 14:46:41.534] [[34minfo[00m] Event 3575 result ttH: 118.153 +- 1.22876e-54; result ttbb: 74.1998 +- 3.46426e-35 mem: 0.614252
+37: [2018-09-24 14:46:41.534] [[34minfo[00m] Weight computed in 24639ms and 15906ms
+38: [2018-09-24 14:46:45.076] [[34minfo[00m] Event 6912 result ttH: 70.7113 +- 1.55242e-33; result ttbb: 71.1136 +- 1.12731e-33 mem: 0.498582
+39: [2018-09-24 14:46:45.076] [[34minfo[00m] Weight computed in 2871ms and 7277ms
+40: [2018-09-24 14:47:35.057] [[34minfo[00m] Event 8415 result ttH: 95.8271 +- 2.34074e-44; result ttbb: 74.9354 +- 6.64779e-36 mem: 0.561172
+41: [2018-09-24 14:47:35.057] [[34minfo[00m] Weight computed in 2452ms and 47519ms
+42: [2018-09-24 14:48:55.621] [[34minfo[00m] Event 8926 result ttH: 90.9144 +- 1.11527e-42; result ttbb: 77.3419 +- 2.00983e-36 mem: 0.540333
+43: [2018-09-24 14:48:55.621] [[34minfo[00m] Weight computed in 58953ms and 21609ms
+Info in <TTree::SaveAs>: ROOT file mem_diLeptonic_weightsttbar.root has been created
+algomez@t3ui02:~/work/ttH/CMSSW_9_4_9/src/MoMEMta/Tutorials/build$ 38: [2018-09-24 14:50:32.308] [[34minfo[00m] Event 3830 result ttH: 77.3936 +- 1.62934e-36; result ttbb: 77.3324 +- 2.1704e-36 mem: 0.500198
+39: [2018-09-24 14:50:32.308] [[34minfo[00m] Weight computed in 2356ms and 228417ms
+40: [2018-09-24 14:51:31.755] [[34minfo[00m] Event 3914 result ttH: 116.274 +- 2.22062e-53; result ttbb: 87.162 +- 7.33948e-41 mem: 0.57155
+41: [2018-09-24 14:51:31.755] [[34minfo[00m] Weight computed in 5896ms and 53549ms
+42: [2018-09-24 14:52:08.650] [[34minfo[00m] Event 5043 result ttH: inf +- 0; result ttbb: 80.1484 +- 7.82594e-38 mem: -nan
+43: [2018-09-24 14:52:08.650] [[34minfo[00m] Weight computed in 340ms and 36551ms
+44: [2018-09-24 14:53:23.315] [[34minfo[00m] Event 5741 result ttH: 121.245 +- 9.90348e-56; result ttbb: 119.281 +- 1.90959e-54 mem: 0.504082
+45: [2018-09-24 14:53:23.315] [[34minfo[00m] Weight computed in 6850ms and 67814ms
+46: [2018-09-24 14:53:44.561] [[34minfo[00m] Event 6022 result ttH: 75.7389 +- 1.6764e-35; result ttbb: 73.9384 +- 9.4141e-35 mem: 0.506014
+47: [2018-09-24 14:53:44.561] [[34minfo[00m] Weight computed in 9184ms and 12058ms
+48: [2018-09-24 14:54:10.190] [[34minfo[00m] Event 6050 result ttH: 72.5457 +- 3.17117e-34; result ttbb: 70.0092 +- 4.20208e-33 mem: 0.508896
+49: [2018-09-24 14:54:10.190] [[34minfo[00m] Weight computed in 3673ms and 21955ms
+50: [2018-09-24 14:54:10.280] [[34minfo[00m] Event 6121 result ttH: inf +- 0; result ttbb: inf +- 0 mem: -nan
+51: [2018-09-24 14:54:10.280] [[34minfo[00m] Weight computed in 45ms and 43ms
+52: [2018-09-24 14:55:12.180] [[34minfo[00m] Event 6346 result ttH: 73.0405 +- 6.94221e-35; result ttbb: 72.2064 +- 3.59299e-34 mem: 0.502871
+53: [2018-09-24 14:55:12.180] [[34minfo[00m] Weight computed in 12957ms and 48942ms
+54: [2018-09-24 15:03:34.828] [[34minfo[00m] Event 6516 result ttH: 375.634 +- 0; result ttbb: 83.2459 +- 8.39823e-40 mem: 0.818589
+55: [2018-09-24 15:03:34.829] [[34minfo[00m] Weight computed in 486ms and 502161ms
+56: [2018-09-24 15:04:41.681] [[34minfo[00m] Event 6625 result ttH: 72.7137 +- 2.00029e-35; result ttbb: 71.5275 +- 6.09209e-34 mem: 0.504112
+57: [2018-09-24 15:04:41.681] [[34minfo[00m] Weight computed in 49034ms and 17818ms
+58: [2018-09-24 15:08:46.586] [[34minfo[00m] Event 6701 result ttH: 110.478 +- 1.40379e-50; result ttbb: 78.764 +- 1.37266e-37 mem: 0.583793
+59: [2018-09-24 15:08:46.586] [[34minfo[00m] Weight computed in 7867ms and 237035ms
+60: [2018-09-24 15:09:32.606] [[34minfo[00m] Event 6918 result ttH: 72.429 +- 1.05832e-34; result ttbb: 70.9806 +- 1.71945e-33 mem: 0.50505
+61: [2018-09-24 15:09:32.606] [[34minfo[00m] Weight computed in 14863ms and 31155ms
+62: [2018-09-24 15:09:46.615] [[34minfo[00m] Event 7029 result ttH: 79.6797 +- 2.42338e-37; result ttbb: 72.5012 +- 3.12118e-34 mem: 0.523585
+63: [2018-09-24 15:09:46.615] [[34minfo[00m] Weight computed in 3882ms and 10127ms
+64: [2018-09-24 15:12:09.568] [[34minfo[00m] Event 7032 result ttH: 113.705 +- 5.88153e-51; result ttbb: 80.9647 +- 1.5029e-38 mem: 0.584092
+65: [2018-09-24 15:12:09.568] [[34minfo[00m] Weight computed in 34443ms and 108508ms
+66: [2018-09-24 15:13:27.858] [[34minfo[00m] Event 7235 result ttH: 72.1343 +- 1.91027e-34; result ttbb: 70.812 +- 1.59371e-33 mem: 0.504625
+67: [2018-09-24 15:13:27.858] [[34minfo[00m] Weight computed in 18126ms and 60163ms
+68: [2018-09-24 15:21:25.987] [[34minfo[00m] Event 7289 result ttH: 140.747 +- 7.98813e-65; result ttbb: 77.5862 +- 2.12863e-37 mem: 0.644643
+69: [2018-09-24 15:21:25.987] [[34minfo[00m] Weight computed in 63559ms and 414569ms
+70: [2018-09-24 15:28:28.421] [[34minfo[00m] Event 7416 result ttH: 87.8493 +- 1.55863e-41; result ttbb: 88.1782 +- 1.17239e-41 mem: 0.499066
+71: [2018-09-24 15:28:28.421] [[34minfo[00m] Weight computed in 45359ms and 377074ms
+72: [2018-09-24 15:30:33.389] [[34minfo[00m] Event 7471 result ttH: 129.405 +- 3.71806e-59; result ttbb: 76.204 +- 6.16564e-36 mem: 0.629374
+73: [2018-09-24 15:30:33.389] [[34minfo[00m] Weight computed in 89314ms and 35653ms
+74: [2018-09-24 15:37:22.374] [[34minfo[00m] Event 7501 result ttH: 70.8883 +- 1.2226e-33; result ttbb: 70.7573 +- 1.52288e-34 mem: 0.500462
+75: [2018-09-24 15:37:22.374] [[34minfo[00m] Weight computed in 17431ms and 391553ms
+76: [2018-09-24 15:39:25.380] [[34minfo[00m] Event 7824 result ttH: 89.7045 +- 1.78491e-42; result ttbb: 75.8017 +- 8.36589e-36 mem: 0.542001
+77: [2018-09-24 15:39:25.380] [[34minfo[00m] Weight computed in 107338ms and 15667ms
+78: [2018-09-24 15:40:17.439] [[34minfo[00m] Event 8054 result ttH: 76.2992 +- 4.24156e-36; result ttbb: 73.1912 +- 1.34562e-34 mem: 0.510395
+79: [2018-09-24 15:40:17.439] [[34minfo[00m] Weight computed in 4514ms and 47540ms
+80: [2018-09-24 15:42:25.262] [[34minfo[00m] Event 8132 result ttH: 167.784 +- 2.75348e-76; result ttbb: 77.8118 +- 5.4633e-37 mem: 0.683171
+81: [2018-09-24 15:42:25.262] [[34minfo[00m] Weight computed in 45658ms and 82164ms
+82: [2018-09-24 15:46:25.089] [[34minfo[00m] Event 8271 result ttH: 80.5278 +- 8.77377e-38; result ttbb: 78.6652 +- 1.90514e-37 mem: 0.50585
+83: [2018-09-24 15:46:25.089] [[34minfo[00m] Weight computed in 11880ms and 227946ms
+84: [2018-09-24 15:47:03.017] [[34minfo[00m] Event 8346 result ttH: 78.6769 +- 5.10539e-37; result ttbb: 74.3793 +- 5.5147e-35 mem: 0.514039
+85: [2018-09-24 15:47:03.017] [[34minfo[00m] Weight computed in 9809ms and 28118ms
+86: [2018-09-24 15:50:36.327] [[34minfo[00m] Event 8616 result ttH: 89.3315 +- 4.19404e-42; result ttbb: 79.0763 +- 6.51011e-38 mem: 0.530448
+87: [2018-09-24 15:50:36.327] [[34minfo[00m] Weight computed in 16228ms and 197079ms
+88: [2018-09-24 15:56:13.274] [[34minfo[00m] Event 8692 result ttH: 71.9531 +- 3.82102e-34; result ttbb: 70.0645 +- 6.14534e-34 mem: 0.506649
+89: [2018-09-24 15:56:13.274] [[34minfo[00m] Weight computed in 6316ms and 330626ms
+90: [2018-09-24 15:57:08.556] [[34minfo[00m] Event 9576 result ttH: 72.748 +- 6.73566e-35; result ttbb: 71.972 +- 2.82929e-34 mem: 0.502681
+91: [2018-09-24 15:57:08.556] [[34minfo[00m] Weight computed in 21813ms and 33469ms
+92: [2018-09-24 15:58:50.268] [[34minfo[00m] Event 9598 result ttH: 72.5063 +- 2.74441e-34; result ttbb: 72.0028 +- 8.64256e-35 mem: 0.501742
+93: [2018-09-24 15:58:50.268] [[34minfo[00m] Weight computed in 2202ms and 99509ms
+94: [2018-09-24 16:00:46.531] [[34minfo[00m] Event 9767 result ttH: 72.4897 +- 2.38506e-34; result ttbb: 71.8354 +- 6.16364e-34 mem: 0.502267
+95: [2018-09-24 16:00:46.531] [[34minfo[00m] Weight computed in 9600ms and 106662ms
+96: [2018-09-24 16:01:37.642] [[34minfo[00m] Event 9817 result ttH: 72.3255 +- 4.23336e-34; result ttbb: 69.501 +- 6.94351e-33 mem: 0.509958
+97: [2018-09-24 16:01:37.642] [[34minfo[00m] Weight computed in 3864ms and 47246ms
+98: [2018-09-24 16:02:17.148] [[34minfo[00m] Event 9911 result ttH: 78.8198 +- 5.20228e-37; result ttbb: 71.7798 +- 7.30895e-34 mem: 0.523373
+99: [2018-09-24 16:02:17.148] [[34minfo[00m] Weight computed in 5726ms and 33779ms
+100: [2018-09-24 16:02:41.956] [[34minfo[00m] Event 9987 result ttH: 74.6323 +- 3.48788e-35; result ttbb: 72.4958 +- 3.24807e-34 mem: 0.507261
+101: [2018-09-24 16:02:41.956] [[34minfo[00m] Weight computed in 3229ms and 21578ms
+102: [2018-09-24 16:03:38.175] [[34minfo[00m] Event 10142 result ttH: 74.4929 +- 1.00759e-35; result ttbb: 71.3606 +- 6.54968e-34 mem: 0.510738
+103: [2018-09-24 16:03:38.175] [[34minfo[00m] Weight computed in 15929ms and 40284ms
+104: [2018-09-24 16:03:56.642] [[34minfo[00m] Event 10351 result ttH: 108.338 +- 1.19757e-49; result ttbb: 75.6695 +- 1.31614e-35 mem: 0.58877
+105: [2018-09-24 16:03:56.642] [[34minfo[00m] Weight computed in 3745ms and 14720ms
+106: [2018-09-24 16:03:56.742] [[34minfo[00m] Event 10490 result ttH: inf +- 0; result ttbb: inf +- 0 mem: -nan
+107: [2018-09-24 16:03:56.742] [[34minfo[00m] Weight computed in 52ms and 47ms
+108: [2018-09-24 16:07:43.822] [[34minfo[00m] Event 10606 result ttH: 76.8026 +- 1.3234e-36; result ttbb: 74.6485 +- 4.69892e-36 mem: 0.507112
+109: [2018-09-24 16:07:43.822] [[34minfo[00m] Weight computed in 25242ms and 201837ms
+110: [2018-09-24 16:08:43.312] [[34minfo[00m] Event 10729 result ttH: 77.1887 +- 4.32266e-37; result ttbb: 73.3204 +- 7.95255e-35 mem: 0.512851
+111: [2018-09-24 16:08:43.312] [[34minfo[00m] Weight computed in 37459ms and 22029ms
+112: [2018-09-24 16:14:27.698] [[34minfo[00m] Event 10908 result ttH: 71.0015 +- 1.18428e-33; result ttbb: 69.2173 +- 1.26732e-33 mem: 0.506362
+113: [2018-09-24 16:14:27.698] [[34minfo[00m] Weight computed in 6068ms and 338317ms
+114: [2018-09-24 16:15:58.236] [[34minfo[00m] Event 11552 result ttH: 94.9368 +- 1.69971e-44; result ttbb: 74.0656 +- 3.52391e-35 mem: 0.561748
+115: [2018-09-24 16:15:58.236] [[34minfo[00m] Weight computed in 27911ms and 62623ms
+116: [2018-09-24 16:24:27.581] [[34minfo[00m] Event 11918 result ttH: 68.2114 +- 2.22888e-32; result ttbb: 69.3826 +- 8.09751e-34 mem: 0.495744
+117: [2018-09-24 16:24:27.581] [[34minfo[00m] Weight computed in 1605ms and 507735ms
+118: [2018-09-24 16:25:51.800] [[34minfo[00m] Event 11944 result ttH: 77.5798 +- 1.97863e-36; result ttbb: 75.916 +- 8.24851e-36 mem: 0.50542
+119: [2018-09-24 16:25:51.800] [[34minfo[00m] Weight computed in 2221ms and 81997ms
+120: [2018-09-24 16:30:30.272] [[34minfo[00m] Event 12278 result ttH: 142.188 +- 7.76132e-65; result ttbb: 97.8715 +- 1.6419e-45 mem: 0.592304
+121: [2018-09-24 16:30:30.272] [[34minfo[00m] Weight computed in 63122ms and 215348ms
+122: [2018-09-24 16:30:57.330] [[34minfo[00m] Event 12748 result ttH: 94.6399 +- 5.82811e-44; result ttbb: 77.4142 +- 1.04003e-36 mem: 0.550059
+123: [2018-09-24 16:30:57.330] [[34minfo[00m] Weight computed in 3012ms and 24045ms
+124: [2018-09-24 16:31:27.089] [[34minfo[00m] Event 12823 result ttH: 71.2089 +- 1.05982e-33; result ttbb: 70.3108 +- 2.91338e-33 mem: 0.503173
+125: [2018-09-24 16:31:27.089] [[34minfo[00m] Weight computed in 8139ms and 21619ms
+126: [2018-09-24 16:31:50.674] [[34minfo[00m] Event 13097 result ttH: 98.7468 +- 9.41288e-46; result ttbb: 76.9456 +- 4.50864e-36 mem: 0.562044
+127: [2018-09-24 16:31:50.674] [[34minfo[00m] Weight computed in 2008ms and 21577ms
+128: [2018-09-24 16:37:57.380] [[34minfo[00m] Event 13290 result ttH: 73.2606 +- 1.46398e-34; result ttbb: 70.4006 +- 2.96644e-33 mem: 0.509954
+129: [2018-09-24 16:37:57.380] [[34minfo[00m] Weight computed in 3584ms and 363120ms
+130: [2018-09-24 16:38:53.669] [[34minfo[00m] Event 13315 result ttH: 83.6038 +- 3.22846e-39; result ttbb: 73.2438 +- 1.90448e-34 mem: 0.533026
+131: [2018-09-24 16:38:53.669] [[34minfo[00m] Weight computed in 5640ms and 50647ms
+132: [2018-09-24 16:39:43.361] [[34minfo[00m] Event 13385 result ttH: 78.3228 +- 4.62656e-37; result ttbb: 73.3431 +- 1.59114e-34 mem: 0.516417
+133: [2018-09-24 16:39:43.361] [[34minfo[00m] Weight computed in 30937ms and 18754ms
+134: [2018-09-24 16:41:12.381] [[34minfo[00m] Event 13549 result ttH: 80.1474 +- 3.67258e-38; result ttbb: 72.6576 +- 2.01519e-34 mem: 0.524508
+135: [2018-09-24 16:41:12.381] [[34minfo[00m] Weight computed in 78159ms and 10858ms
+136: [2018-09-24 16:43:04.041] [[34minfo[00m] Event 14122 result ttH: 81.9581 +- 8.47036e-39; result ttbb: 75.8423 +- 6.92305e-36 mem: 0.519378
+137: [2018-09-24 16:43:04.041] [[34minfo[00m] Weight computed in 21647ms and 90011ms
+138: [2018-09-24 16:44:14.901] [[34minfo[00m] Event 14142 result ttH: 84.4674 +- 3.92217e-40; result ttbb: 74.601 +- 4.07187e-35 mem: 0.531013
+139: [2018-09-24 16:44:14.901] [[34minfo[00m] Weight computed in 21984ms and 48875ms
+140: [2018-09-24 16:45:12.269] [[34minfo[00m] Event 14198 result ttH: 396.132 +- 0; result ttbb: 78.0466 +- 9.15907e-37 mem: 0.835407
+141: [2018-09-24 16:45:12.269] [[34minfo[00m] Weight computed in 189ms and 57177ms
+142: [2018-09-24 16:46:23.577] [[34minfo[00m] Event 14355 result ttH: 74.1618 +- 5.57824e-35; result ttbb: 71.0702 +- 6.94054e-34 mem: 0.510644
+143: [2018-09-24 16:46:23.577] [[34minfo[00m] Weight computed in 2743ms and 68564ms
+144: [2018-09-24 16:50:13.700] [[34minfo[00m] Event 14457 result ttH: 76.9157 +- 2.5498e-36; result ttbb: 73.3046 +- 2.21558e-35 mem: 0.512019
+145: [2018-09-24 16:50:13.700] [[34minfo[00m] Weight computed in 4788ms and 225331ms
+146: [2018-09-24 16:53:07.135] [[34minfo[00m] Event 14486 result ttH: 146.045 +- 2.4275e-66; result ttbb: 142.333 +- 1.28342e-64 mem: 0.506435
+147: [2018-09-24 16:53:07.135] [[34minfo[00m] Weight computed in 7048ms and 166385ms
+148: [2018-09-24 16:56:37.720] [[34minfo[00m] Event 14610 result ttH: 74.9458 +- 4.82165e-36; result ttbb: 73.9292 +- 1.41604e-35 mem: 0.503415
+149: [2018-09-24 16:56:37.720] [[34minfo[00m] Weight computed in 27075ms and 183508ms
+150: [2018-09-24 16:59:20.425] [[34minfo[00m] Event 14720 result ttH: 96.1471 +- 9.79188e-45; result ttbb: 73.4482 +- 6.38601e-35 mem: 0.566921
+151: [2018-09-24 16:59:20.425] [[34minfo[00m] Weight computed in 11486ms and 151218ms
+152: [2018-09-24 16:59:37.400] [[34minfo[00m] Event 14784 result ttH: 73.9676 +- 7.54532e-35; result ttbb: 71.3578 +- 7.98585e-34 mem: 0.508979
+153: [2018-09-24 16:59:37.400] [[34minfo[00m] Weight computed in 3398ms and 13576ms
+154: [2018-09-24 17:02:45.611] [[34minfo[00m] Event 14787 result ttH: 76.7389 +- 3.74219e-37; result ttbb: 72.8448 +- 8.66388e-35 mem: 0.513017
+155: [2018-09-24 17:02:45.611] [[34minfo[00m] Weight computed in 49745ms and 138465ms
+156: [2018-09-24 17:07:12.731] [[34minfo[00m] Event 14814 result ttH: 76.7693 +- 4.53946e-36; result ttbb: 74.4693 +- 6.44754e-36 mem: 0.507604
+157: [2018-09-24 17:07:12.731] [[34minfo[00m] Weight computed in 6428ms and 260690ms
+158: [2018-09-24 17:07:27.983] [[34minfo[00m] Event 14890 result ttH: 227.699 +- 1.38822e-101; result ttbb: 78.4281 +- 9.57069e-37 mem: 0.743805
+159: [2018-09-24 17:07:27.983] [[34minfo[00m] Weight computed in 1744ms and 13506ms
+160: [2018-09-24 17:07:48.039] [[34minfo[00m] Event 15067 result ttH: 196.13 +- 3.2903e-88; result ttbb: 80.7781 +- 9.79729e-38 mem: 0.708286
+161: [2018-09-24 17:07:48.039] [[34minfo[00m] Weight computed in 12590ms and 7464ms
+162: [2018-09-24 17:09:52.903] [[34minfo[00m] Event 15190 result ttH: 72.788 +- 2.56435e-34; result ttbb: 71.9439 +- 9.12611e-35 mem: 0.502916
+163: [2018-09-24 17:09:52.903] [[34minfo[00m] Weight computed in 2634ms and 122226ms
+164: [2018-09-24 17:11:24.205] [[34minfo[00m] Event 15389 result ttH: 120.118 +- 1.83093e-55; result ttbb: 79.2393 +- 3.81979e-37 mem: 0.602527
+165: [2018-09-24 17:11:24.205] [[34minfo[00m] Weight computed in 68424ms and 22877ms
+166: [2018-09-24 17:11:24.302] [[34minfo[00m] Event 15480 result ttH: inf +- 0; result ttbb: inf +- 0 mem: -nan
+167: [2018-09-24 17:11:24.302] [[34minfo[00m] Weight computed in 52ms and 44ms
+168: [2018-09-24 17:11:24.406] [[34minfo[00m] Event 15638 result ttH: inf +- 0; result ttbb: inf +- 0 mem: -nan
+169: [2018-09-24 17:11:24.406] [[34minfo[00m] Weight computed in 55ms and 48ms
+170: [2018-09-24 17:13:23.697] [[34minfo[00m] Event 15761 result ttH: 74.2323 +- 9.48109e-36; result ttbb: 70.3176 +- 2.35582e-33 mem: 0.513541
+171: [2018-09-24 17:13:23.697] [[34minfo[00m] Weight computed in 56074ms and 63216ms
+172: [2018-09-24 17:15:40.421] [[34minfo[00m] Event 15779 result ttH: 76.3256 +- 1.45945e-36; result ttbb: 70.8533 +- 7.62228e-34 mem: 0.51859
+173: [2018-09-24 17:15:40.421] [[34minfo[00m] Weight computed in 92180ms and 44543ms
+174: [2018-09-24 17:17:09.288] [[34minfo[00m] Event 15991 result ttH: 72.7249 +- 1.29151e-34; result ttbb: 71.0741 +- 7.04299e-34 mem: 0.50574
+175: [2018-09-24 17:17:09.288] [[34minfo[00m] Weight computed in 39572ms and 49291ms
+176: [2018-09-24 17:17:09.393] [[34minfo[00m] Event 16490 result ttH: inf +- 0; result ttbb: inf +- 0 mem: -nan
+177: [2018-09-24 17:17:09.393] [[34minfo[00m] Weight computed in 52ms and 52ms
+178: [2018-09-24 17:18:20.649] [[34minfo[00m] Event 16517 result ttH: 91.8299 +- 1.41879e-42; result ttbb: 77.0278 +- 1.10133e-36 mem: 0.54383
+179: [2018-09-24 17:18:20.649] [[34minfo[00m] Weight computed in 3170ms and 68086ms
+180: [2018-09-24 17:20:41.565] [[34minfo[00m] Event 16544 result ttH: 76.0138 +- 1.05596e-36; result ttbb: 73.9943 +- 7.73381e-35 mem: 0.506731
+181: [2018-09-24 17:20:41.565] [[34minfo[00m] Weight computed in 59251ms and 81664ms
+182: [2018-09-24 17:23:07.486] [[34minfo[00m] Event 16901 result ttH: 76.045 +- 5.50924e-36; result ttbb: 74.2704 +- 1.98814e-35 mem: 0.505903
+183: [2018-09-24 17:23:07.486] [[34minfo[00m] Weight computed in 9630ms and 136287ms
+184: [2018-09-24 17:27:47.692] [[34minfo[00m] Event 16903 result ttH: 70.3145 +- 3.88201e-33; result ttbb: 70.0854 +- 6.56538e-34 mem: 0.500816
+185: [2018-09-24 17:27:47.692] [[34minfo[00m] Weight computed in 1887ms and 278318ms
+186: [2018-09-24 17:32:07.174] [[34minfo[00m] Event 16929 result ttH: 82.1388 +- 2.8865e-39; result ttbb: 75.2297 +- 1.9057e-35 mem: 0.521952
+187: [2018-09-24 17:32:07.174] [[34minfo[00m] Weight computed in 167782ms and 91699ms
+188: [2018-09-24 17:33:16.142] [[34minfo[00m] Event 17085 result ttH: 76.8164 +- 2.23119e-36; result ttbb: 73.4217 +- 8.96542e-35 mem: 0.511298
+189: [2018-09-24 17:33:16.142] [[34minfo[00m] Weight computed in 16703ms and 52264ms
+190: [2018-09-24 17:34:52.017] [[34minfo[00m] Event 17408 result ttH: 124.137 +- 2.17193e-57; result ttbb: 74.3335 +- 8.51817e-35 mem: 0.625468
+191: [2018-09-24 17:34:52.017] [[34minfo[00m] Weight computed in 83237ms and 12634ms
+192: [2018-09-24 17:35:31.204] [[34minfo[00m] Event 17815 result ttH: 237.353 +- 2.97694e-106; result ttbb: 78.8431 +- 6.28209e-37 mem: 0.750652
+193: [2018-09-24 17:35:31.204] [[34minfo[00m] Weight computed in 27234ms and 11952ms
+194: [2018-09-24 17:36:46.889] [[34minfo[00m] Event 17921 result ttH: 71.3797 +- 8.82343e-34; result ttbb: 70.9939 +- 9.60004e-34 mem: 0.501355
+195: [2018-09-24 17:36:46.889] [[34minfo[00m] Weight computed in 4161ms and 71523ms
+196: [2018-09-24 17:37:29.912] [[34minfo[00m] Event 18198 result ttH: 75.6822 +- 1.74516e-36; result ttbb: 72.4963 +- 2.89313e-34 mem: 0.51075
+197: [2018-09-24 17:37:29.912] [[34minfo[00m] Weight computed in 18861ms and 24161ms
+198: [2018-09-24 17:38:11.125] [[34minfo[00m] Event 18345 result ttH: 70.2525 +- 3.25283e-33; result ttbb: 69.5106 +- 7.15888e-33 mem: 0.502654
+199: [2018-09-24 17:38:11.125] [[34minfo[00m] Weight computed in 4624ms and 36589ms
+200: [2018-09-24 17:39:42.042] [[34minfo[00m] Event 18605 result ttH: 75.2308 +- 1.13506e-35; result ttbb: 72.5149 +- 2.47336e-34 mem: 0.509191
+201: [2018-09-24 17:39:42.042] [[34minfo[00m] Weight computed in 24574ms and 66339ms
+202: [2018-09-24 17:43:42.664] [[34minfo[00m] Event 18710 result ttH: 120.63 +- 9.74536e-56; result ttbb: 120.275 +- 1.16569e-54 mem: 0.500737
+203: [2018-09-24 17:43:42.664] [[34minfo[00m] Weight computed in 40796ms and 199825ms
+204: [2018-09-24 17:45:52.678] [[34minfo[00m] Event 19046 result ttH: 72.2961 +- 4.55328e-35; result ttbb: 72.798 +- 2.02912e-34 mem: 0.49827
+205: [2018-09-24 17:45:52.678] [[34minfo[00m] Weight computed in 114177ms and 15836ms
+206: [2018-09-24 17:46:18.140] [[34minfo[00m] Event 19338 result ttH: 82.0325 +- 1.85772e-38; result ttbb: 76.4754 +- 6.47934e-36 mem: 0.51753
+207: [2018-09-24 17:46:18.140] [[34minfo[00m] Weight computed in 3405ms and 22056ms
+208: [2018-09-24 17:49:44.514] [[34minfo[00m] Event 19779 result ttH: 76.7563 +- 4.194e-37; result ttbb: 74.6806 +- 6.49469e-36 mem: 0.506853
+209: [2018-09-24 17:49:44.514] [[34minfo[00m] Weight computed in 44317ms and 162056ms
+210: [2018-09-24 17:50:45.221] [[34minfo[00m] Event 19811 result ttH: 74.4783 +- 3.51573e-35; result ttbb: 73.1099 +- 4.66176e-35 mem: 0.504636
+211: [2018-09-24 17:50:45.221] [[34minfo[00m] Weight computed in 7766ms and 52941ms
+212: [2018-09-24 17:55:26.176] [[34minfo[00m] Event 19836 result ttH: 112.995 +- 2.49236e-52; result ttbb: 105.855 +- 2.90278e-49 mem: 0.516313
+213: [2018-09-24 17:55:26.176] [[34minfo[00m] Weight computed in 108717ms and 172237ms
+214: [2018-09-24 17:57:44.413] [[34minfo[00m] Event 19854 result ttH: 86.806 +- 1.02264e-40; result ttbb: 81.4135 +- 6.73265e-39 mem: 0.516028
+215: [2018-09-24 17:57:44.413] [[34minfo[00m] Weight computed in 8700ms and 129535ms
+216: [2018-09-24 18:00:07.826] [[34minfo[00m] Event 19923 result ttH: 305.416 +- 1.32487e-134; result ttbb: 271.158 +- 2.10775e-120 mem: 0.529708
+217: [2018-09-24 18:00:07.826] [[34minfo[00m] Weight computed in 6226ms and 137186ms
+218: [2018-09-24 18:03:22.771] [[34minfo[00m] Event 19998 result ttH: 86.8064 +- 2.8004e-40; result ttbb: 77.4882 +- 5.75191e-37 mem: 0.528358
+219: [2018-09-24 18:03:22.771] [[34minfo[00m] Weight computed in 8427ms and 186516ms
+220: [2018-09-24 18:04:34.018] [[34minfo[00m] Event 20023 result ttH: 318.948 +- 7.06186e-142; result ttbb: 77.7145 +- 2.67264e-36 mem: 0.804079
+221: [2018-09-24 18:04:34.018] [[34minfo[00m] Weight computed in 29730ms and 41516ms
+222: [2018-09-24 18:05:35.502] [[34minfo[00m] Event 20100 result ttH: 82.9645 +- 1.02729e-39; result ttbb: 74.0442 +- 4.11634e-35 mem: 0.528407
+223: [2018-09-24 18:05:35.502] [[34minfo[00m] Weight computed in 37912ms and 23568ms
+224: [2018-09-24 18:07:45.383] [[34minfo[00m] Event 20112 result ttH: 74.5575 +- 1.95489e-35; result ttbb: 74.3811 +- 1.05536e-35 mem: 0.500592
+225: [2018-09-24 18:07:45.383] [[34minfo[00m] Weight computed in 6361ms and 123520ms
+226: [2018-09-24 18:08:15.137] [[34minfo[00m] Event 20167 result ttH: 71.4075 +- 1.3203e-33; result ttbb: 71.3983 +- 1.19562e-33 mem: 0.500032
+227: [2018-09-24 18:08:15.137] [[34minfo[00m] Weight computed in 3424ms and 26326ms
+228: [2018-09-24 18:10:04.682] [[34minfo[00m] Event 20353 result ttH: 123.07 +- 1.41755e-56; result ttbb: 119.823 +- 2.7084e-55 mem: 0.506684
+229: [2018-09-24 18:10:04.682] [[34minfo[00m] Weight computed in 21292ms and 88252ms
+230: [2018-09-24 18:10:04.782] [[34minfo[00m] Event 21059 result ttH: inf +- 0; result ttbb: inf +- 0 mem: -nan
+231: [2018-09-24 18:10:04.782] [[34minfo[00m] Weight computed in 47ms and 52ms
+232: [2018-09-24 18:10:30.456] [[34minfo[00m] Event 21556 result ttH: 103.281 +- 1.13134e-47; result ttbb: 80.5338 +- 6.88061e-38 mem: 0.561876
+233: [2018-09-24 18:10:30.456] [[34minfo[00m] Weight computed in 6821ms and 18850ms
+234: [2018-09-24 18:13:00.964] [[34minfo[00m] Event 21642 result ttH: 102.587 +- 1.47836e-47; result ttbb: 78.306 +- 7.92999e-37 mem: 0.567113
+235: [2018-09-24 18:13:00.964] [[34minfo[00m] Weight computed in 123432ms and 27075ms
+236: [2018-09-24 18:14:58.804] [[34minfo[00m] Event 21646 result ttH: 79.1466 +- 2.71399e-37; result ttbb: 71.5848 +- 1.23855e-33 mem: 0.525084
+237: [2018-09-24 18:14:58.804] [[34minfo[00m] Weight computed in 39688ms and 78151ms
+./mem_dileptonic/mem_comparison_dileptonic.exe ttbar ls[Kcmsenv vi mem_comparison_dileptonic.cc ls[Kcmsenv ls[Kcd ../MoMEMta/Tutorials/mem_dileptonic/ttH [K[2Plscrab status crab_projects/v20180917_withME/crab_TTbb_sl_v20180917_withME/algomez@t3ui02:~/work/ttH/CMSSW_9_4_9/src/MoMEMta/Tutorials/build$ ls[Kcrab status crab_projects/test/crab_ttHTobb_test/[3@TTbar_had1_test/msenv [Kls[Kcd MEAnalysis/crab_nano/ls[KttH [2Pls./bin/mg5rm -rf PROC_loop_sm-ckm_0/ls[K./bin/mg5ls[Kcd ~/work/Generation/MG5_aMC_v2_6_1-[KttH ./bin/mg5_aMC[K_aMC ls[Kcd work/Generation/MG5_aMC_v2_6_1/ls[Kexit./mem_dileptonic/mem_comparison_dileptonic.exe ls[Kcmsenv tail screenlog.0 ls[Ktail screenlog.0 ls[KmyT2ls lheFiles/sample0007_dileptonic/pwgevents-dileptonic_ttbb.lhe[K[Kmem_diLeptonic_weights.root[Kls[Kscreen -list[Kls[Kmake -j 8ls[Kscreen -listls[KmyT2ls mem_diLeptonic_weights.rootlheFiles[K/sample0007_dileptonic/pwgevents-dileptonic_ttbb.lhels[Ktail screenlog.0 ls[Ktail screenlog.0 [10Pcmsenv ls[K./mem_dileptonic/mem_comparison_dileptonic.exe exit[K[2Plscd work/Generation/MG5_aMC_v2_6_1/ls[K./bin/mg5_aMC [K_aMCttH [Kcd -~/work/Generation/MG5_aMC_v2_6_1ls[K./bin/mg5ls[Krm -rf PROC_loop_sm-ckm_0/[17P./bin/mg5ls[KttH [2Plscd MEAnalysis/crab_nano/ls[Kcmsenv rab status crab_projects/test/crab_TTbar_had1_test/[3PttHTobb_test/ls[Kcrab status crab_projects/v20180917_withME/crab_TTbb_sl_v20180917_withME/algomez@t3ui02:~/work/ttH/CMSSW_9_4_9/src/MoMEMta/Tutorials/build$ ls[KttH cd ../MoMEMta/Tutorials/mem_dileptonic/ls[Kcmsenv ls[Kvi mem_comparison_dileptonic.cc cmsenv [Kls[K./mem_dileptonic/mem_comparison_dileptonic.exe ttbar [Kexit
+^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B
+238: [2018-09-24 18:22:05.799] [[34minfo[00m] Event 21677 result ttH: 84.865 +- 1.31588e-39; result ttbb: 73.2604 +- 2.98756e-35 mem: 0.536694
+239: [2018-09-24 18:22:05.799] [[34minfo[00m] Weight computed in 8520ms and 418474ms
+240: [2018-09-24 18:28:38.166] [[34minfo[00m] Event 21950 result ttH: 80.4763 +- 9.6386e-38; result ttbb: 71.8276 +- 2.20346e-34 mem: 0.528393
+241: [2018-09-24 18:28:38.166] [[34minfo[00m] Weight computed in 3569ms and 388794ms
+242: [2018-09-24 18:29:02.072] [[34minfo[00m] Event 22093 result ttH: 76.5805 +- 5.07566e-36; result ttbb: 75.5018 +- 1.23191e-35 mem: 0.503547
+243: [2018-09-24 18:29:02.072] [[34minfo[00m] Weight computed in 1678ms and 22226ms
+244: [2018-09-24 18:31:36.988] [[34minfo[00m] Event 22096 result ttH: 85.8324 +- 2.89932e-39; result ttbb: 76.8582 +- 2.14904e-36 mem: 0.527581
+245: [2018-09-24 18:31:36.988] [[34minfo[00m] Weight computed in 2460ms and 152456ms
+246: [2018-09-24 18:34:54.577] [[34minfo[00m] Event 22115 result ttH: 77.4243 +- 5.27664e-37; result ttbb: 71.402 +- 3.98113e-34 mem: 0.520233
+247: [2018-09-24 18:34:54.577] [[34minfo[00m] Weight computed in 51473ms and 146115ms
+248: [2018-09-24 18:35:31.852] [[34minfo[00m] Event 22162 result ttH: 79.1655 +- 3.40938e-37; result ttbb: 71.468 +- 8.70042e-34 mem: 0.52555
+249: [2018-09-24 18:35:31.852] [[34minfo[00m] Weight computed in 9403ms and 27870ms
+250: [2018-09-24 18:36:20.408] [[34minfo[00m] Event 22475 result ttH: 76.284 +- 4.12538e-36; result ttbb: 74.0166 +- 4.93428e-35 mem: 0.507543
+251: [2018-09-24 18:36:20.408] [[34minfo[00m] Weight computed in 17228ms and 31326ms
+252: [2018-09-24 18:36:49.761] [[34minfo[00m] Event 22490 result ttH: 72.7274 +- 2.05625e-34; result ttbb: 72.8391 +- 1.94724e-34 mem: 0.499616
+253: [2018-09-24 18:36:49.761] [[34minfo[00m] Weight computed in 4835ms and 24517ms
+254: [2018-09-24 18:41:34.329] [[34minfo[00m] Event 22499 result ttH: 74.2093 +- 5.61496e-36; result ttbb: 74.6403 +- 2.39893e-35 mem: 0.498552
+255: [2018-09-24 18:41:34.329] [[34minfo[00m] Weight computed in 79088ms and 205478ms
+256: [2018-09-24 18:42:01.532] [[34minfo[00m] Event 22677 result ttH: 78.7617 +- 5.31649e-37; result ttbb: 75.8335 +- 7.22536e-36 mem: 0.509471
+257: [2018-09-24 18:42:01.532] [[34minfo[00m] Weight computed in 3563ms and 23639ms
+258: [2018-09-24 18:45:57.936] [[34minfo[00m] Event 22707 result ttH: 81.5728 +- 1.55155e-39; result ttbb: 74.9129 +- 3.32929e-36 mem: 0.52128
+259: [2018-09-24 18:45:57.936] [[34minfo[00m] Weight computed in 52111ms and 184291ms
+260: [2018-09-24 18:46:46.682] [[34minfo[00m] Event 22988 result ttH: 92.6473 +- 4.67998e-44; result ttbb: 72.6014 +- 2.49611e-34 mem: 0.560654
+261: [2018-09-24 18:46:46.682] [[34minfo[00m] Weight computed in 38761ms and 9983ms
+262: [2018-09-24 18:47:19.525] [[34minfo[00m] Event 23257 result ttH: 75.291 +- 1.99557e-35; result ttbb: 75.5142 +- 1.04481e-35 mem: 0.49926
+263: [2018-09-24 18:47:19.525] [[34minfo[00m] Weight computed in 1419ms and 31420ms
+264: [2018-09-24 18:49:43.698] [[34minfo[00m] Event 23295 result ttH: 83.4314 +- 3.20108e-39; result ttbb: 75.2529 +- 3.47645e-35 mem: 0.52577
+265: [2018-09-24 18:49:43.698] [[34minfo[00m] Weight computed in 49649ms and 94522ms
+266: [2018-09-24 18:58:52.616] [[34minfo[00m] Event 23526 result ttH: 181.385 +- 6.71734e-82; result ttbb: 83.304 +- 1.19895e-39 mem: 0.685276
+267: [2018-09-24 18:58:52.616] [[34minfo[00m] Weight computed in 162922ms and 385992ms
+268: [2018-09-24 19:01:01.143] [[34minfo[00m] Event 23783 result ttH: 74.5695 +- 4.68048e-36; result ttbb: 73.8454 +- 5.63893e-35 mem: 0.50244
+269: [2018-09-24 19:01:01.143] [[34minfo[00m] Weight computed in 71994ms and 56532ms
+270: [2018-09-24 19:04:50.967] [[34minfo[00m] Event 23812 result ttH: 74.8609 +- 2.38265e-35; result ttbb: 72.3895 +- 1.13551e-34 mem: 0.508392
+271: [2018-09-24 19:04:50.967] [[34minfo[00m] Weight computed in 11169ms and 218654ms
+272: [2018-09-24 19:05:49.038] [[34minfo[00m] Event 23848 result ttH: 104.463 +- 1.77187e-48; result ttbb: 75.885 +- 1.00699e-35 mem: 0.579231
+273: [2018-09-24 19:05:49.038] [[34minfo[00m] Weight computed in 37710ms and 20360ms
+274: [2018-09-24 19:06:24.808] [[34minfo[00m] Event 23948 result ttH: 77.5336 +- 1.99803e-36; result ttbb: 75.8068 +- 5.05151e-36 mem: 0.505631
+275: [2018-09-24 19:06:24.808] [[34minfo[00m] Weight computed in 2103ms and 33662ms
+276: [2018-09-24 19:07:38.278] [[34minfo[00m] Event 24234 result ttH: 115.131 +- 1.61966e-53; result ttbb: 78.6553 +- 9.70159e-37 mem: 0.594112
+277: [2018-09-24 19:07:38.278] [[34minfo[00m] Weight computed in 59403ms and 14067ms
+278: [2018-09-24 19:08:49.764] [[34minfo[00m] Event 24266 result ttH: 80.8855 +- 3.92171e-38; result ttbb: 74.5262 +- 3.46709e-35 mem: 0.52046
+279: [2018-09-24 19:08:49.765] [[34minfo[00m] Weight computed in 5011ms and 66474ms
+280: [2018-09-24 19:15:00.701] [[34minfo[00m] Event 24339 result ttH: 160.375 +- 4.02609e-73; result ttbb: 78.2491 +- 1.32763e-37 mem: 0.672082
+281: [2018-09-24 19:15:00.701] [[34minfo[00m] Weight computed in 49159ms and 321776ms
+282: [2018-09-24 19:18:19.296] [[34minfo[00m] Event 24431 result ttH: 73.7414 +- 7.61686e-35; result ttbb: 73.3932 +- 2.93972e-35 mem: 0.501183
+283: [2018-09-24 19:18:19.296] [[34minfo[00m] Weight computed in 4300ms and 194294ms
+284: [2018-09-24 19:19:46.084] [[34minfo[00m] Event 24594 result ttH: 84.0638 +- 3.24672e-39; result ttbb: 73.9905 +- 6.30526e-36 mem: 0.531867
+285: [2018-09-24 19:19:46.084] [[34minfo[00m] Weight computed in 6970ms and 79817ms
+286: [2018-09-24 19:24:39.550] [[34minfo[00m] Event 24784 result ttH: 81.9937 +- 1.51261e-38; result ttbb: 71.2233 +- 1.36293e-34 mem: 0.535148
+287: [2018-09-24 19:24:39.550] [[34minfo[00m] Weight computed in 10687ms and 282778ms
+288: [2018-09-24 19:27:17.261] [[34minfo[00m] Event 25341 result ttH: 112.464 +- 1.17227e-51; result ttbb: 74.8361 +- 3.74875e-35 mem: 0.600449
+289: [2018-09-24 19:27:17.261] [[34minfo[00m] Weight computed in 123915ms and 33756ms
+290: [2018-09-24 19:36:14.417] [[34minfo[00m] Event 25460 result ttH: 255.861 +- 1.86236e-114; result ttbb: 84.3336 +- 5.80547e-40 mem: 0.752102
+291: [2018-09-24 19:36:14.417] [[34minfo[00m] Weight computed in 127492ms and 409663ms
+292: [2018-09-24 19:36:14.535] [[34minfo[00m] Event 25577 result ttH: inf +- 0; result ttbb: inf +- 0 mem: -nan
+293: [2018-09-24 19:36:14.536] [[34minfo[00m] Weight computed in 63ms and 54ms
+294: [2018-09-24 19:37:10.788] [[34minfo[00m] Event 25634 result ttH: 76.1307 +- 8.74532e-36; result ttbb: 74.3293 +- 2.1157e-34 mem: 0.505986
+295: [2018-09-24 19:37:10.788] [[34minfo[00m] Weight computed in 6498ms and 49753ms
+296: [2018-09-24 19:38:05.766] [[34minfo[00m] Event 25729 result ttH: 74.1539 +- 1.81006e-35; result ttbb: 72.0082 +- 3.13777e-34 mem: 0.50734
+297: [2018-09-24 19:38:05.766] [[34minfo[00m] Weight computed in 7234ms and 47743ms
+298: [2018-09-24 19:43:24.608] [[34minfo[00m] Event 26051 result ttH: 84.3882 +- 2.3903e-40; result ttbb: 76.3476 +- 6.07452e-36 mem: 0.525012
+299: [2018-09-24 19:43:24.608] [[34minfo[00m] Weight computed in 143763ms and 175053ms
+300: [2018-09-24 19:45:32.200] [[34minfo[00m] Event 26116 result ttH: 73.5208 +- 1.25953e-35; result ttbb: 72.1545 +- 2.33527e-34 mem: 0.504689
+301: [2018-09-24 19:45:32.200] [[34minfo[00m] Weight computed in 97293ms and 30298ms
+302: [2018-09-24 19:46:42.029] [[34minfo[00m] Event 26127 result ttH: 74.8716 +- 2.74594e-35; result ttbb: 71.8969 +- 5.35497e-34 mem: 0.510134
+303: [2018-09-24 19:46:42.029] [[34minfo[00m] Weight computed in 12054ms and 57773ms
+304: [2018-09-24 19:48:02.648] [[34minfo[00m] Event 26155 result ttH: 76.1164 +- 4.03894e-37; result ttbb: 74.4498 +- 5.64354e-35 mem: 0.505535
+305: [2018-09-24 19:48:02.648] [[34minfo[00m] Weight computed in 54809ms and 25809ms
+306: [2018-09-24 19:52:19.095] [[34minfo[00m] Event 26350 result ttH: 74.7063 +- 2.55817e-35; result ttbb: 74.4846 +- 1.88133e-35 mem: 0.500743
+307: [2018-09-24 19:52:19.095] [[34minfo[00m] Weight computed in 3489ms and 252957ms
+308: [2018-09-24 19:52:33.628] [[34minfo[00m] Event 26537 result ttH: 72.6446 +- 2.48543e-34; result ttbb: 71.6894 +- 7.32485e-34 mem: 0.503309
+309: [2018-09-24 19:52:33.628] [[34minfo[00m] Weight computed in 6559ms and 7973ms
+310: [2018-09-24 19:55:01.351] [[34minfo[00m] Event 26877 result ttH: 74.3851 +- 3.60105e-35; result ttbb: 73.1238 +- 1.26432e-34 mem: 0.504275
+311: [2018-09-24 19:55:01.351] [[34minfo[00m] Weight computed in 4107ms and 143564ms
+312: [2018-09-24 20:07:52.105] [[34minfo[00m] Event 26899 result ttH: 286.41 +- 4.10286e-127; result ttbb: 281.175 +- 1.36051e-125 mem: 0.504612
+313: [2018-09-24 20:07:52.105] [[34minfo[00m] Weight computed in 73899ms and 696854ms
+314: [2018-09-24 20:09:11.559] [[34minfo[00m] Event 26965 result ttH: 84.3681 +- 9.31673e-40; result ttbb: 71.9904 +- 2.90868e-34 mem: 0.539581
+315: [2018-09-24 20:09:11.559] [[34minfo[00m] Weight computed in 11595ms and 67858ms
+316: [2018-09-24 20:11:09.110] [[34minfo[00m] Event 27000 result ttH: 85.2413 +- 2.59235e-40; result ttbb: 83.8057 +- 1.47924e-39 mem: 0.504246
+317: [2018-09-24 20:11:09.110] [[34minfo[00m] Weight computed in 48039ms and 69511ms
+318: [2018-09-24 20:11:32.485] [[34minfo[00m] Event 27002 result ttH: 76.7671 +- 1.60797e-36; result ttbb: 73.4617 +- 1.77625e-34 mem: 0.511001
+319: [2018-09-24 20:11:32.485] [[34minfo[00m] Weight computed in 14980ms and 8394ms
+320: [2018-09-24 20:15:09.532] [[34minfo[00m] Event 27013 result ttH: 75.145 +- 6.38004e-36; result ttbb: 72.171 +- 5.43339e-35 mem: 0.510094
+321: [2018-09-24 20:15:09.532] [[34minfo[00m] Weight computed in 105188ms and 111857ms
+322: [2018-09-24 20:18:05.927] [[34minfo[00m] Event 27353 result ttH: 74.9345 +- 1.67585e-35; result ttbb: 72.4401 +- 4.38266e-35 mem: 0.508463
+323: [2018-09-24 20:18:05.927] [[34minfo[00m] Weight computed in 3800ms and 172593ms
+324: [2018-09-24 20:19:08.849] [[34minfo[00m] Event 27413 result ttH: 93.637 +- 1.45282e-43; result ttbb: 74.2986 +- 7.70393e-35 mem: 0.557577
+325: [2018-09-24 20:19:08.849] [[34minfo[00m] Weight computed in 51533ms and 11389ms
+326: [2018-09-24 20:19:08.921] [[34minfo[00m] Event 27429 result ttH: inf +- 0; result ttbb: inf +- 0 mem: -nan
+327: [2018-09-24 20:19:08.921] [[34minfo[00m] Weight computed in 19ms and 51ms
+328: [2018-09-24 20:20:26.053] [[34minfo[00m] Event 27478 result ttH: 77.8221 +- 5.17552e-37; result ttbb: 71.0377 +- 3.98499e-34 mem: 0.522788
+329: [2018-09-24 20:20:26.053] [[34minfo[00m] Weight computed in 24542ms and 52589ms
+330: [2018-09-24 20:20:34.311] [[34minfo[00m] Event 27621 result ttH: 81.8833 +- 2.58555e-38; result ttbb: 74.0618 +- 1.34408e-34 mem: 0.525078
+331: [2018-09-24 20:20:34.311] [[34minfo[00m] Weight computed in 2108ms and 6149ms
+332: [2018-09-24 20:27:45.450] [[34minfo[00m] Event 27715 result ttH: inf +- 0; result ttbb: 84.9338 +- 1.27866e-40 mem: -nan
+333: [2018-09-24 20:27:45.451] [[34minfo[00m] Weight computed in 194ms and 430944ms
+334: [2018-09-24 20:28:39.686] [[34minfo[00m] Event 27741 result ttH: 100.149 +- 4.69487e-47; result ttbb: 88.3705 +- 1.80135e-41 mem: 0.53124
+335: [2018-09-24 20:28:39.686] [[34minfo[00m] Weight computed in 26678ms and 27557ms
+336: [2018-09-24 20:29:06.787] [[34minfo[00m] Event 27806 result ttH: 74.7922 +- 2.7691e-35; result ttbb: 75.372 +- 2.03802e-35 mem: 0.498069
+337: [2018-09-24 20:29:06.787] [[34minfo[00m] Weight computed in 4527ms and 22572ms
+338: [2018-09-24 20:29:47.919] [[34minfo[00m] Event 27842 result ttH: 73.5679 +- 1.08492e-34; result ttbb: 72.6424 +- 3.5163e-34 mem: 0.503165
+339: [2018-09-24 20:29:47.919] [[34minfo[00m] Weight computed in 21200ms and 19931ms
+340: [2018-09-24 20:31:13.607] [[34minfo[00m] Event 27882 result ttH: 71.602 +- 6.95213e-34; result ttbb: 69.7175 +- 1.57742e-32 mem: 0.506668
+341: [2018-09-24 20:31:13.607] [[34minfo[00m] Weight computed in 13062ms and 72625ms
+342: [2018-09-24 20:38:57.599] [[34minfo[00m] Event 27944 result ttH: inf +- 0; result ttbb: 81.1724 +- 6.04413e-39 mem: -nan
+343: [2018-09-24 20:38:57.599] [[34minfo[00m] Weight computed in 50ms and 463941ms
+344: [2018-09-24 20:41:07.509] [[34minfo[00m] Event 27973 result ttH: 77.5056 +- 7.57603e-37; result ttbb: 72.9553 +- 9.68655e-35 mem: 0.515121
+345: [2018-09-24 20:41:07.509] [[34minfo[00m] Weight computed in 81709ms and 48199ms
+346: [2018-09-24 20:41:33.973] [[34minfo[00m] Event 28034 result ttH: 73.5431 +- 4.98083e-35; result ttbb: 73.7639 +- 2.32589e-34 mem: 0.499251
+347: [2018-09-24 20:41:33.973] [[34minfo[00m] Weight computed in 2290ms and 24173ms
+348: [2018-09-24 20:46:25.631] [[34minfo[00m] Event 28104 result ttH: 78.3611 +- 2.91087e-37; result ttbb: 74.5159 +- 1.003e-35 mem: 0.512576
+349: [2018-09-24 20:46:25.631] [[34minfo[00m] Weight computed in 14275ms and 277382ms
+350: [2018-09-24 20:47:41.037] [[34minfo[00m] Event 28136 result ttH: 75.1927 +- 3.64416e-35; result ttbb: 72.9294 +- 1.51185e-34 mem: 0.50764
+351: [2018-09-24 20:47:41.037] [[34minfo[00m] Weight computed in 5888ms and 69517ms
+352: [2018-09-24 20:47:59.744] [[34minfo[00m] Event 28180 result ttH: 81.8815 +- 2.81e-38; result ttbb: 73.5976 +- 1.44662e-34 mem: 0.52664
+353: [2018-09-24 20:47:59.744] [[34minfo[00m] Weight computed in 3426ms and 15280ms
+354: [2018-09-24 20:49:07.173] [[34minfo[00m] Event 28196 result ttH: 95.5017 +- 8.11766e-45; result ttbb: 75.9711 +- 4.57192e-36 mem: 0.55695
+355: [2018-09-24 20:49:07.174] [[34minfo[00m] Weight computed in 9534ms and 57895ms
+356: [2018-09-24 20:51:22.180] [[34minfo[00m] Event 28232 result ttH: 77.4811 +- 5.45714e-37; result ttbb: 72.7554 +- 2.01896e-34 mem: 0.515728
+357: [2018-09-24 20:51:22.180] [[34minfo[00m] Weight computed in 24578ms and 110427ms
+358: [2018-09-24 20:52:20.174] [[34minfo[00m] Event 28515 result ttH: 104.301 +- 6.48965e-48; result ttbb: 79.7969 +- 1.46856e-37 mem: 0.566552
+359: [2018-09-24 20:52:20.174] [[34minfo[00m] Weight computed in 39514ms and 18409ms
+360: [2018-09-24 20:53:24.205] [[34minfo[00m] Event 28718 result ttH: 76.4815 +- 4.7356e-36; result ttbb: 73.447 +- 9.64113e-35 mem: 0.51012
+361: [2018-09-24 20:53:24.205] [[34minfo[00m] Weight computed in 6949ms and 57080ms
+362: [2018-09-24 20:54:01.143] [[34minfo[00m] Event 28909 result ttH: 73.8963 +- 4.70812e-35; result ttbb: 72.9033 +- 2.3416e-34 mem: 0.503382
+363: [2018-09-24 20:54:01.143] [[34minfo[00m] Weight computed in 11765ms and 25136ms
+364: [2018-09-24 20:54:46.264] [[34minfo[00m] Event 28999 result ttH: 92.6946 +- 4.82546e-43; result ttbb: 73.6703 +- 7.4193e-35 mem: 0.557176
+365: [2018-09-24 20:54:46.264] [[34minfo[00m] Weight computed in 7084ms and 38036ms
+366: [2018-09-24 20:55:12.697] [[34minfo[00m] Event 29033 result ttH: 73.688 +- 9.94849e-35; result ttbb: 72.8217 +- 2.31761e-34 mem: 0.502956
+367: [2018-09-24 20:55:12.697] [[34minfo[00m] Weight computed in 8165ms and 18266ms
+368: [2018-09-24 20:57:30.215] [[34minfo[00m] Event 29714 result ttH: 91.3271 +- 5.69791e-43; result ttbb: 73.9561 +- 3.79063e-35 mem: 0.552549
+369: [2018-09-24 20:57:30.215] [[34minfo[00m] Weight computed in 90319ms and 47197ms
+370: [2018-09-24 20:57:30.324] [[34minfo[00m] Event 29731 result ttH: inf +- 0; result ttbb: inf +- 0 mem: -nan
+371: [2018-09-24 20:57:30.324] [[34minfo[00m] Weight computed in 54ms and 54ms
+372: [2018-09-24 20:57:30.440] [[34minfo[00m] Event 29748 result ttH: inf +- 0; result ttbb: inf +- 0 mem: -nan
+373: [2018-09-24 20:57:30.440] [[34minfo[00m] Weight computed in 63ms and 53ms
+374: [2018-09-24 20:58:26.335] [[34minfo[00m] Event 29786 result ttH: 81.4546 +- 2.51634e-38; result ttbb: 73.3395 +- 1.06746e-34 mem: 0.526213
+375: [2018-09-24 20:58:26.335] [[34minfo[00m] Weight computed in 3963ms and 51931ms
+376: [2018-09-24 20:59:50.792] [[34minfo[00m] Event 29991 result ttH: 79.2703 +- 1.07769e-37; result ttbb: 73.5394 +- 1.01912e-34 mem: 0.518751
+377: [2018-09-24 20:59:50.792] [[34minfo[00m] Weight computed in 61871ms and 22585ms
+378: [2018-09-24 21:00:08.905] [[34minfo[00m] Event 29994 result ttH: 88.2957 +- 3.59738e-41; result ttbb: 77.9672 +- 1.09216e-36 mem: 0.531061
+379: [2018-09-24 21:00:08.905] [[34minfo[00m] Weight computed in 7530ms and 10582ms
+380: [2018-09-24 21:03:30.092] [[34minfo[00m] Event 30016 result ttH: 72.2328 +- 4.18649e-34; result ttbb: 72.0704 +- 1.18082e-34 mem: 0.500563
+381: [2018-09-24 21:03:30.092] [[34minfo[00m] Weight computed in 1963ms and 199223ms
+382: [2018-09-24 21:09:59.826] [[34minfo[00m] Event 30115 result ttH: 72.8781 +- 2.01225e-34; result ttbb: 69.0963 +- 8.61944e-34 mem: 0.513319
+383: [2018-09-24 21:09:59.826] [[34minfo[00m] Weight computed in 3068ms and 386634ms
+384: [2018-09-24 21:10:56.612] [[34minfo[00m] Event 30124 result ttH: 71.1888 +- 7.64585e-34; result ttbb: 70.8776 +- 9.93249e-34 mem: 0.501095
+385: [2018-09-24 21:10:56.612] [[34minfo[00m] Weight computed in 35079ms and 21706ms
+386: [2018-09-24 21:11:46.122] [[34minfo[00m] Event 30182 result ttH: 72.4664 +- 2.29111e-34; result ttbb: 70.2434 +- 1.9454e-33 mem: 0.507788
+387: [2018-09-24 21:11:46.122] [[34minfo[00m] Weight computed in 11539ms and 37969ms
+388: [2018-09-24 21:16:19.726] [[34minfo[00m] Event 30192 result ttH: 76.7382 +- 9.63456e-37; result ttbb: 72.8096 +- 6.97624e-35 mem: 0.513135
+389: [2018-09-24 21:16:19.726] [[34minfo[00m] Weight computed in 46021ms and 227582ms
+390: [2018-09-24 21:16:51.387] [[34minfo[00m] Event 30458 result ttH: 514.078 +- 0; result ttbb: 78.1689 +- 7.10474e-37 mem: 0.868013
+391: [2018-09-24 21:16:51.387] [[34minfo[00m] Weight computed in 112ms and 31548ms
+392: [2018-09-24 21:23:30.657] [[34minfo[00m] Event 30731 result ttH: 151.013 +- 2.02199e-67; result ttbb: 148.284 +- 9.63875e-68 mem: 0.50456
+393: [2018-09-24 21:23:30.657] [[34minfo[00m] Weight computed in 5655ms and 393614ms
+394: [2018-09-24 21:24:03.944] [[34minfo[00m] Event 30998 result ttH: 534.935 +- 0; result ttbb: 76.1667 +- 1.80849e-35 mem: 0.875362
+395: [2018-09-24 21:24:03.944] [[34minfo[00m] Weight computed in 722ms and 32564ms
+396: [2018-09-24 21:24:36.886] [[34minfo[00m] Event 31092 result ttH: 94.6214 +- 5.54458e-43; result ttbb: 77.669 +- 1.15484e-36 mem: 0.549197
+397: [2018-09-24 21:24:36.886] [[34minfo[00m] Weight computed in 25866ms and 7074ms
+398: [2018-09-24 21:27:14.181] [[34minfo[00m] Event 31306 result ttH: 73.506 +- 8.14375e-35; result ttbb: 70.786 +- 3.60189e-34 mem: 0.509426
+399: [2018-09-24 21:27:14.181] [[34minfo[00m] Weight computed in 6397ms and 150897ms
+400: [2018-09-24 21:29:38.822] [[34minfo[00m] Event 31406 result ttH: 104.099 +- 8.90922e-49; result ttbb: 101.503 +- 2.43498e-47 mem: 0.506314
+401: [2018-09-24 21:29:38.822] [[34minfo[00m] Weight computed in 40008ms and 104632ms
+402: [2018-09-24 21:30:46.066] [[34minfo[00m] Event 31421 result ttH: 82.0935 +- 3.13737e-39; result ttbb: 75.2257 +- 1.60016e-35 mem: 0.521828
+403: [2018-09-24 21:30:46.066] [[34minfo[00m] Weight computed in 26946ms and 40296ms
+404: [2018-09-24 21:30:46.177] [[34minfo[00m] Event 31432 result ttH: inf +- 0; result ttbb: inf +- 0 mem: -nan
+405: [2018-09-24 21:30:46.177] [[34minfo[00m] Weight computed in 61ms and 50ms
+406: [2018-09-24 21:32:41.371] [[34minfo[00m] Event 31653 result ttH: 106.7 +- 6.39626e-50; result ttbb: 75.8964 +- 6.19393e-36 mem: 0.584348
+407: [2018-09-24 21:32:41.371] [[34minfo[00m] Weight computed in 10948ms and 104244ms
+408: [2018-09-24 21:35:43.384] [[34minfo[00m] Event 31656 result ttH: 148.154 +- 4.34125e-67; result ttbb: 79.867 +- 4.69077e-38 mem: 0.649738
+409: [2018-09-24 21:35:43.384] [[34minfo[00m] Weight computed in 4388ms and 177625ms
+410: [2018-09-24 21:36:31.650] [[34minfo[00m] Event 31779 result ttH: 77.1825 +- 2.00286e-36; result ttbb: 74.7206 +- 2.4427e-35 mem: 0.508104
+411: [2018-09-24 21:36:31.650] [[34minfo[00m] Weight computed in 6313ms and 41913ms
+412: [2018-09-24 21:38:50.460] [[34minfo[00m] Event 31990 result ttH: 77.2515 +- 5.12678e-37; result ttbb: 72.5341 +- 2.22641e-34 mem: 0.515747
+413: [2018-09-24 21:38:50.460] [[34minfo[00m] Weight computed in 55426ms and 83380ms
+414: [2018-09-24 21:39:46.742] [[34minfo[00m] Event 32075 result ttH: 120.383 +- 2.91453e-55; result ttbb: 77.7817 +- 9.18141e-37 mem: 0.60749
+415: [2018-09-24 21:39:46.742] [[34minfo[00m] Weight computed in 40252ms and 16028ms
+416: [2018-09-24 21:43:45.481] [[34minfo[00m] Event 32125 result ttH: 85.5218 +- 5.34711e-40; result ttbb: 78.8022 +- 1.3581e-37 mem: 0.520446
+417: [2018-09-24 21:43:45.481] [[34minfo[00m] Weight computed in 2861ms and 235878ms
+418: [2018-09-24 21:44:19.444] [[34minfo[00m] Event 32191 result ttH: 76.9839 +- 3.0322e-36; result ttbb: 69.6918 +- 4.90126e-33 mem: 0.524858
+419: [2018-09-24 21:44:19.444] [[34minfo[00m] Weight computed in 6779ms and 27182ms
+420: [2018-09-24 21:44:37.981] [[34minfo[00m] Event 32290 result ttH: 76.5687 +- 4.03124e-36; result ttbb: 75.2619 +- 1.70988e-35 mem: 0.504303
+421: [2018-09-24 21:44:37.981] [[34minfo[00m] Weight computed in 4087ms and 14449ms
+422: [2018-09-24 21:46:17.774] [[34minfo[00m] Event 32337 result ttH: 415.943 +- 0; result ttbb: 79.5576 +- 1.727e-37 mem: 0.83944
+423: [2018-09-24 21:46:17.774] [[34minfo[00m] Weight computed in 781ms and 99011ms
+424: [2018-09-24 21:48:47.697] [[34minfo[00m] Event 32509 result ttH: 171.745 +- 8.68446e-78; result ttbb: 172.838 +- 2.05267e-78 mem: 0.498415
+425: [2018-09-24 21:48:47.697] [[34minfo[00m] Weight computed in 52416ms and 97506ms
+426: [2018-09-24 21:49:11.857] [[34minfo[00m] Event 32591 result ttH: 79.4153 +- 2.18823e-37; result ttbb: 75.6199 +- 1.56808e-35 mem: 0.51224
+427: [2018-09-24 21:49:11.857] [[34minfo[00m] Weight computed in 1564ms and 22595ms
+428: [2018-09-24 21:51:06.108] [[34minfo[00m] Event 32649 result ttH: 114.155 +- 2.37289e-53; result ttbb: 76.9283 +- 2.66265e-36 mem: 0.597409
+429: [2018-09-24 21:51:06.108] [[34minfo[00m] Weight computed in 78145ms and 36104ms
+430: [2018-09-24 21:51:36.770] [[34minfo[00m] Event 32691 result ttH: inf +- 0; result ttbb: 80.5695 +- 1.37777e-37 mem: -nan
+431: [2018-09-24 21:51:36.770] [[34minfo[00m] Weight computed in 28ms and 30633ms
+432: [2018-09-24 21:57:16.391] [[34minfo[00m] Event 32705 result ttH: 91.1471 +- 5.55461e-43; result ttbb: 80.1259 +- 9.70001e-38 mem: 0.532175
+433: [2018-09-24 21:57:16.391] [[34minfo[00m] Weight computed in 42659ms and 296962ms
+434: [2018-09-24 21:57:27.667] [[34minfo[00m] Event 32991 result ttH: 72.9794 +- 1.52385e-34; result ttbb: 74.1848 +- 6.80979e-35 mem: 0.495904
+435: [2018-09-24 21:57:27.667] [[34minfo[00m] Weight computed in 1860ms and 9415ms
+436: [2018-09-24 21:57:50.142] [[34minfo[00m] Event 33006 result ttH: 102.622 +- 3.41053e-47; result ttbb: 75.3011 +- 4.1733e-35 mem: 0.576777
+437: [2018-09-24 21:57:50.142] [[34minfo[00m] Weight computed in 2881ms and 19593ms
+438: [2018-09-24 21:59:38.494] [[34minfo[00m] Event 33012 result ttH: 107.866 +- 2.13139e-49; result ttbb: 83.3285 +- 3.66149e-39 mem: 0.564168
+439: [2018-09-24 21:59:38.494] [[34minfo[00m] Weight computed in 28051ms and 80300ms
+440: [2018-09-24 22:01:29.301] [[34minfo[00m] Event 33097 result ttH: 88.0441 +- 4.60172e-42; result ttbb: 73.6086 +- 1.41319e-35 mem: 0.54465
+441: [2018-09-24 22:01:29.301] [[34minfo[00m] Weight computed in 22333ms and 88473ms
+442: [2018-09-24 22:03:06.086] [[34minfo[00m] Event 33194 result ttH: 201.392 +- 7.96336e-91; result ttbb: 80.417 +- 2.64551e-37 mem: 0.71464
+443: [2018-09-24 22:03:06.086] [[34minfo[00m] Weight computed in 24236ms and 72548ms
+444: [2018-09-24 22:03:54.553] [[34minfo[00m] Event 33552 result ttH: 77.6159 +- 3.08077e-36; result ttbb: 75.2001 +- 1.98085e-35 mem: 0.507904
+445: [2018-09-24 22:03:54.553] [[34minfo[00m] Weight computed in 7361ms and 41100ms
+446: [2018-09-24 22:05:12.384] [[34minfo[00m] Event 33979 result ttH: 100.331 +- 1.56628e-46; result ttbb: 80.3054 +- 5.71262e-38 mem: 0.555432
+447: [2018-09-24 22:05:12.384] [[34minfo[00m] Weight computed in 9619ms and 68211ms
+448: [2018-09-24 22:06:03.203] [[34minfo[00m] Event 33999 result ttH: 76.3763 +- 2.70054e-36; result ttbb: 72.1432 +- 7.76188e-34 mem: 0.514251
+449: [2018-09-24 22:06:03.203] [[34minfo[00m] Weight computed in 17906ms and 32913ms
+450: [2018-09-24 22:06:55.708] [[34minfo[00m] Event 34122 result ttH: 70.7046 +- 2.5359e-33; result ttbb: 70.6245 +- 1.26116e-33 mem: 0.500284
+451: [2018-09-24 22:06:55.708] [[34minfo[00m] Weight computed in 6741ms and 45762ms
+452: [2018-09-24 22:09:54.192] [[34minfo[00m] Event 34166 result ttH: 74.1993 +- 5.92633e-35; result ttbb: 72.6967 +- 1.58031e-34 mem: 0.505114
+453: [2018-09-24 22:09:54.192] [[34minfo[00m] Weight computed in 4092ms and 174392ms
+454: [2018-09-24 22:10:44.228] [[34minfo[00m] Event 34469 result ttH: 79.1219 +- 2.73305e-37; result ttbb: 74.5081 +- 2.82145e-35 mem: 0.515016
+455: [2018-09-24 22:10:44.228] [[34minfo[00m] Weight computed in 5707ms and 44327ms
+456: [2018-09-24 22:11:28.382] [[34minfo[00m] Event 34688 result ttH: 75.7477 +- 1.57791e-35; result ttbb: 73.412 +- 1.19789e-34 mem: 0.50783
+457: [2018-09-24 22:11:28.382] [[34minfo[00m] Weight computed in 3775ms and 40373ms
+458: [2018-09-24 22:13:09.584] [[34minfo[00m] Event 35014 result ttH: 71.7596 +- 1.92541e-34; result ttbb: 70.8289 +- 9.42192e-34 mem: 0.503263
+459: [2018-09-24 22:13:09.584] [[34minfo[00m] Weight computed in 36547ms and 64654ms
+460: [2018-09-24 22:13:40.474] [[34minfo[00m] Event 35134 result ttH: 71.6 +- 1.82331e-34; result ttbb: 72.259 +- 4.11524e-34 mem: 0.497709
+461: [2018-09-24 22:13:40.474] [[34minfo[00m] Weight computed in 22580ms and 8305ms
+462: [2018-09-24 22:14:54.834] [[34minfo[00m] Event 35302 result ttH: 80.5849 +- 1.21955e-38; result ttbb: 78.2764 +- 1.00114e-36 mem: 0.507266
+463: [2018-09-24 22:14:54.834] [[34minfo[00m] Weight computed in 59717ms and 14642ms
+464: [2018-09-24 22:17:30.173] [[34minfo[00m] Event 35428 result ttH: 106.437 +- 1.49794e-49; result ttbb: 75.6353 +- 1.77296e-35 mem: 0.584587
+465: [2018-09-24 22:17:30.173] [[34minfo[00m] Weight computed in 134184ms and 21154ms
+466: [2018-09-24 22:19:29.894] [[34minfo[00m] Event 35434 result ttH: 69.6338 +- 5.5595e-33; result ttbb: 70.7277 +- 1.13993e-33 mem: 0.496103
+467: [2018-09-24 22:19:29.894] [[34minfo[00m] Weight computed in 20549ms and 99170ms
+468: [2018-09-24 22:19:30.000] [[34minfo[00m] Event 35473 result ttH: inf +- 0; result ttbb: inf +- 0 mem: -nan
+469: [2018-09-24 22:19:30.000] [[34minfo[00m] Weight computed in 57ms and 48ms
+470: [2018-09-24 22:19:59.770] [[34minfo[00m] Event 35803 result ttH: 72.1471 +- 4.31232e-34; result ttbb: 71.7014 +- 8.7871e-34 mem: 0.501549
+471: [2018-09-24 22:19:59.770] [[34minfo[00m] Weight computed in 6576ms and 23193ms
+472: [2018-09-24 22:26:44.893] [[34minfo[00m] Event 35827 result ttH: 90.8874 +- 1.13685e-42; result ttbb: 89.4641 +- 2.69667e-42 mem: 0.503946
+473: [2018-09-24 22:26:44.893] [[34minfo[00m] Weight computed in 8173ms and 396949ms
+474: [2018-09-24 22:27:46.406] [[34minfo[00m] Event 35887 result ttH: 141.895 +- 1.77492e-64; result ttbb: 77.0747 +- 1.32391e-36 mem: 0.648013
+475: [2018-09-24 22:27:46.406] [[34minfo[00m] Weight computed in 8765ms and 52748ms
+476: [2018-09-24 22:29:58.290] [[34minfo[00m] Event 36017 result ttH: 78.9534 +- 6.05791e-38; result ttbb: 73.3894 +- 2.43043e-35 mem: 0.518262
+477: [2018-09-24 22:29:58.290] [[34minfo[00m] Weight computed in 59514ms and 72369ms
+478: [2018-09-24 22:31:00.457] [[34minfo[00m] Event 36145 result ttH: 72.2715 +- 3.18189e-34; result ttbb: 71.3401 +- 9.45081e-34 mem: 0.503243
+479: [2018-09-24 22:31:00.457] [[34minfo[00m] Weight computed in 10333ms and 51832ms
+480: [2018-09-24 22:35:13.002] [[34minfo[00m] Event 36378 result ttH: 88.8496 +- 3.19178e-41; result ttbb: 76.4952 +- 8.67586e-37 mem: 0.53736
+481: [2018-09-24 22:35:13.002] [[34minfo[00m] Weight computed in 24810ms and 227733ms
+482: [2018-09-24 22:40:19.790] [[34minfo[00m] Event 36568 result ttH: 86.9944 +- 2.58915e-41; result ttbb: 76.083 +- 3.76711e-36 mem: 0.533454
+483: [2018-09-24 22:40:19.790] [[34minfo[00m] Weight computed in 41274ms and 265514ms
+484: [2018-09-24 22:45:14.825] [[34minfo[00m] Event 36603 result ttH: 98.0205 +- 8.31797e-46; result ttbb: 90.0517 +- 1.69032e-41 mem: 0.521185
+485: [2018-09-24 22:45:14.825] [[34minfo[00m] Weight computed in 182993ms and 112040ms
+486: [2018-09-24 22:46:16.747] [[34minfo[00m] Event 36850 result ttH: 72.5203 +- 6.03289e-35; result ttbb: 71.3527 +- 7.89554e-34 mem: 0.504058
+487: [2018-09-24 22:46:16.747] [[34minfo[00m] Weight computed in 7938ms and 53979ms
+488: [2018-09-24 22:47:00.260] [[34minfo[00m] Event 36901 result ttH: 72.2222 +- 3.9025e-34; result ttbb: 71.7517 +- 3.62732e-34 mem: 0.501634
+489: [2018-09-24 22:47:00.260] [[34minfo[00m] Weight computed in 5028ms and 38484ms
+490: [2018-09-24 22:47:14.464] [[34minfo[00m] Event 36981 result ttH: 95.2051 +- 2.56726e-44; result ttbb: 77.4635 +- 1.37959e-36 mem: 0.551375
+491: [2018-09-24 22:47:14.464] [[34minfo[00m] Weight computed in 3850ms and 10353ms
+492: [2018-09-24 22:52:43.061] [[34minfo[00m] Event 36997 result ttH: 119.729 +- 1.74546e-55; result ttbb: 77.2683 +- 7.17917e-37 mem: 0.60777
+493: [2018-09-24 22:52:43.061] [[34minfo[00m] Weight computed in 140778ms and 187819ms
+494: [2018-09-24 23:00:01.752] [[34minfo[00m] Event 37080 result ttH: 163.93 +- 1.48377e-74; result ttbb: 131.855 +- 1.72753e-60 mem: 0.55422
+495: [2018-09-24 23:00:01.752] [[34minfo[00m] Weight computed in 156414ms and 282275ms
+496: [2018-09-24 23:02:02.108] [[34minfo[00m] Event 37259 result ttH: 73.0299 +- 1.81322e-34; result ttbb: 70.6249 +- 7.57291e-34 mem: 0.508371
+497: [2018-09-24 23:02:02.108] [[34minfo[00m] Weight computed in 5761ms and 114594ms
+498: [2018-09-24 23:03:10.968] [[34minfo[00m] Event 37330 result ttH: 85.7588 +- 3.71219e-40; result ttbb: 72.1847 +- 4.19656e-34 mem: 0.542971
+499: [2018-09-24 23:03:10.968] [[34minfo[00m] Weight computed in 46193ms and 22666ms
+500: [2018-09-24 23:03:11.083] [[34minfo[00m] Event 37488 result ttH: inf +- 0; result ttbb: inf +- 0 mem: -nan
+501: [2018-09-24 23:03:11.083] [[34minfo[00m] Weight computed in 59ms and 50ms
+502: [2018-09-24 23:03:59.405] [[34minfo[00m] Event 37687 result ttH: 110.809 +- 1.4479e-51; result ttbb: 76.0616 +- 8.38327e-36 mem: 0.592972
+503: [2018-09-24 23:03:59.405] [[34minfo[00m] Weight computed in 42765ms and 5556ms
+504: [2018-09-24 23:12:43.957] [[34minfo[00m] Event 37946 result ttH: 181.156 +- 1.82192e-81; result ttbb: 80.7155 +- 1.26859e-38 mem: 0.691774
+505: [2018-09-24 23:12:43.957] [[34minfo[00m] Weight computed in 6543ms and 518008ms
+506: [2018-09-24 23:12:58.786] [[34minfo[00m] Event 38058 result ttH: 73.4784 +- 1.05312e-34; result ttbb: 72.6976 +- 2.64986e-34 mem: 0.502671
+507: [2018-09-24 23:12:58.786] [[34minfo[00m] Weight computed in 1617ms and 13211ms
+508: [2018-09-24 23:13:38.839] [[34minfo[00m] Event 38767 result ttH: 74.5427 +- 3.19983e-35; result ttbb: 74.0869 +- 5.94855e-35 mem: 0.501534
+509: [2018-09-24 23:13:38.839] [[34minfo[00m] Weight computed in 4746ms and 35300ms
+510: [2018-09-24 23:20:04.719] [[34minfo[00m] Event 38944 result ttH: 80.5685 +- 9.02314e-38; result ttbb: 77.9823 +- 2.42255e-37 mem: 0.508156
+511: [2018-09-24 23:20:04.719] [[34minfo[00m] Weight computed in 6141ms and 379737ms
+512: [2018-09-24 23:28:12.734] [[34minfo[00m] Event 39245 result ttH: 86.5988 +- 1.07344e-40; result ttbb: 73.8043 +- 1.5859e-35 mem: 0.539882
+513: [2018-09-24 23:28:12.734] [[34minfo[00m] Weight computed in 22859ms and 465155ms
+514: [2018-09-24 23:29:16.192] [[34minfo[00m] Event 39266 result ttH: 76.5887 +- 2.68541e-36; result ttbb: 74.3138 +- 5.98592e-35 mem: 0.507538
+515: [2018-09-24 23:29:16.192] [[34minfo[00m] Weight computed in 15626ms and 47830ms
+516: [2018-09-24 23:31:07.397] [[34minfo[00m] Event 39427 result ttH: 79.2387 +- 3.36624e-38; result ttbb: 73.841 +- 7.08251e-35 mem: 0.51763
+517: [2018-09-24 23:31:07.397] [[34minfo[00m] Weight computed in 59872ms and 51332ms
+518: [2018-09-24 23:32:16.303] [[34minfo[00m] Event 39648 result ttH: 118.107 +- 7.70313e-55; result ttbb: 76.9107 +- 3.48593e-36 mem: 0.605621
+519: [2018-09-24 23:32:16.303] [[34minfo[00m] Weight computed in 51492ms and 17413ms
+520: [2018-09-24 23:37:37.816] [[34minfo[00m] Event 39870 result ttH: 104.536 +- 1.40344e-48; result ttbb: 76.1338 +- 2.10516e-36 mem: 0.578602
+521: [2018-09-24 23:37:37.816] [[34minfo[00m] Weight computed in 39138ms and 282374ms
+522: [2018-09-24 23:37:58.610] [[34minfo[00m] Event 40227 result ttH: 81.9665 +- 3.51463e-38; result ttbb: 73.2387 +- 1.10287e-34 mem: 0.528117
+523: [2018-09-24 23:37:58.610] [[34minfo[00m] Weight computed in 5606ms and 15179ms
+524: [2018-09-24 23:44:36.422] [[34minfo[00m] Event 40264 result ttH: inf +- 0; result ttbb: 89.171 +- 2.86935e-42 mem: -nan
+525: [2018-09-24 23:44:36.422] [[34minfo[00m] Weight computed in 155ms and 397656ms
+526: [2018-09-24 23:45:28.904] [[34minfo[00m] Event 40450 result ttH: 74.8433 +- 2.50804e-35; result ttbb: 72.5545 +- 3.18872e-34 mem: 0.507764
+527: [2018-09-24 23:45:28.904] [[34minfo[00m] Weight computed in 10866ms and 41594ms
+528: [2018-09-24 23:46:09.240] [[34minfo[00m] Event 40965 result ttH: 73.525 +- 1.03963e-34; result ttbb: 73.8039 +- 1.14319e-34 mem: 0.499054
+529: [2018-09-24 23:46:09.240] [[34minfo[00m] Weight computed in 10225ms and 30109ms
+530: [2018-09-24 23:48:56.133] [[34minfo[00m] Event 41071 result ttH: 73.2257 +- 5.32037e-35; result ttbb: 73.0775 +- 2.42896e-34 mem: 0.500506
+531: [2018-09-24 23:48:56.133] [[34minfo[00m] Weight computed in 31480ms and 135412ms
+532: [2018-09-24 23:49:57.890] [[34minfo[00m] Event 41160 result ttH: 73.5944 +- 8.58784e-35; result ttbb: 71.2826 +- 4.66028e-34 mem: 0.507979
+533: [2018-09-24 23:49:57.890] [[34minfo[00m] Weight computed in 11115ms and 50640ms
+534: [2018-09-25 00:02:57.040] [[34minfo[00m] Event 41315 result ttH: 250.733 +- 4.05435e-110; result ttbb: 189.076 +- 1.42255e-85 mem: 0.570095
+535: [2018-09-25 00:02:57.040] [[34minfo[00m] Weight computed in 11873ms and 767275ms
+536: [2018-09-25 00:05:28.265] [[34minfo[00m] Event 41333 result ttH: 96.2875 +- 2.25966e-45; result ttbb: 92.3193 +- 3.88193e-43 mem: 0.51052
+537: [2018-09-25 00:05:28.265] [[34minfo[00m] Weight computed in 55173ms and 96051ms
+538: [2018-09-25 00:06:32.706] [[34minfo[00m] Event 41435 result ttH: 74.962 +- 7.90434e-36; result ttbb: 72.6328 +- 2.38952e-34 mem: 0.507891
+539: [2018-09-25 00:06:32.706] [[34minfo[00m] Weight computed in 30922ms and 33518ms
+540: [2018-09-25 00:06:32.808] [[34minfo[00m] Event 41592 result ttH: inf +- 0; result ttbb: inf +- 0 mem: -nan
+541: [2018-09-25 00:06:32.808] [[34minfo[00m] Weight computed in 55ms and 46ms
+542: [2018-09-25 00:17:56.602] [[34minfo[00m] Event 41906 result ttH: 100.043 +- 9.29864e-47; result ttbb: 92.598 +- 1.35038e-43 mem: 0.519324
+543: [2018-09-25 00:17:56.602] [[34minfo[00m] Weight computed in 86106ms and 597683ms
+544: [2018-09-25 00:18:35.213] [[34minfo[00m] Event 42141 result ttH: 75.0455 +- 9.69427e-36; result ttbb: 73.3311 +- 1.04907e-34 mem: 0.505777
+545: [2018-09-25 00:18:35.213] [[34minfo[00m] Weight computed in 19991ms and 18618ms
+546: [2018-09-25 00:19:20.391] [[34minfo[00m] Event 42305 result ttH: 72.7989 +- 2.11242e-34; result ttbb: 71.0657 +- 5.4881e-34 mem: 0.506024
+547: [2018-09-25 00:19:20.391] [[34minfo[00m] Weight computed in 6685ms and 38492ms
+548: [2018-09-25 00:21:38.950] [[34minfo[00m] Event 42310 result ttH: 89.2955 +- 5.09333e-42; result ttbb: 74.5753 +- 1.78937e-35 mem: 0.544914
+549: [2018-09-25 00:21:38.950] [[34minfo[00m] Weight computed in 37634ms and 100924ms
+550: [2018-09-25 00:21:39.050] [[34minfo[00m] Event 42314 result ttH: inf +- 0; result ttbb: inf +- 0 mem: -nan
+551: [2018-09-25 00:21:39.050] [[34minfo[00m] Weight computed in 53ms and 47ms
+552: [2018-09-25 00:22:59.563] [[34minfo[00m] Event 42319 result ttH: 80.3936 +- 1.13238e-38; result ttbb: 75.9004 +- 5.89369e-36 mem: 0.514374
+553: [2018-09-25 00:22:59.563] [[34minfo[00m] Weight computed in 37503ms and 43009ms
+554: [2018-09-25 00:23:39.469] [[34minfo[00m] Event 42400 result ttH: 105.148 +- 2.61551e-48; result ttbb: 74.2492 +- 4.09698e-35 mem: 0.586118
+555: [2018-09-25 00:23:39.469] [[34minfo[00m] Weight computed in 5277ms and 34628ms
+556: [2018-09-25 00:25:23.495] [[34minfo[00m] Event 42463 result ttH: 93.645 +- 2.61525e-44; result ttbb: 76.6271 +- 5.98962e-36 mem: 0.549973
+557: [2018-09-25 00:25:23.495] [[34minfo[00m] Weight computed in 92578ms and 11446ms
+558: [2018-09-25 00:27:04.180] [[34minfo[00m] Event 42477 result ttH: 81.9476 +- 2.67016e-39; result ttbb: 74.9455 +- 4.60988e-35 mem: 0.522315
+559: [2018-09-25 00:27:04.180] [[34minfo[00m] Weight computed in 56918ms and 43766ms
+560: [2018-09-25 00:31:38.952] [[34minfo[00m] Event 42577 result ttH: 79.2231 +- 9.70712e-38; result ttbb: 79.2686 +- 1.8226e-37 mem: 0.499857
+561: [2018-09-25 00:31:38.952] [[34minfo[00m] Weight computed in 45083ms and 229687ms
+562: [2018-09-25 00:32:28.727] [[34minfo[00m] Event 42985 result ttH: 73.2918 +- 1.02051e-34; result ttbb: 71.5233 +- 4.35655e-34 mem: 0.506106
+563: [2018-09-25 00:32:28.727] [[34minfo[00m] Weight computed in 4910ms and 44864ms
+564: [2018-09-25 00:33:00.360] [[34minfo[00m] Event 43295 result ttH: 75.8188 +- 1.24938e-35; result ttbb: 74.1852 +- 1.62764e-34 mem: 0.505445
+565: [2018-09-25 00:33:00.360] [[34minfo[00m] Weight computed in 3955ms and 27672ms
+566: [2018-09-25 00:35:15.889] [[34minfo[00m] Event 43451 result ttH: 72.6792 +- 2.80185e-34; result ttbb: 71.6073 +- 5.28431e-34 mem: 0.503714
+567: [2018-09-25 00:35:15.889] [[34minfo[00m] Weight computed in 3562ms and 131961ms
+568: [2018-09-25 00:37:01.188] [[34minfo[00m] Event 43534 result ttH: 74.1279 +- 6.26459e-35; result ttbb: 71.9532 +- 1.6534e-34 mem: 0.507443
+569: [2018-09-25 00:37:01.188] [[34minfo[00m] Weight computed in 2581ms and 102717ms
+570: [2018-09-25 00:40:26.671] [[34minfo[00m] Event 43550 result ttH: 86.1098 +- 2.44827e-40; result ttbb: 77.8635 +- 2.19185e-37 mem: 0.525145
+571: [2018-09-25 00:40:26.671] [[34minfo[00m] Weight computed in 7326ms and 198156ms
+572: [2018-09-25 00:41:25.570] [[34minfo[00m] Event 43564 result ttH: 74.4961 +- 2.70725e-35; result ttbb: 72.7603 +- 2.60257e-34 mem: 0.505894
+573: [2018-09-25 00:41:25.570] [[34minfo[00m] Weight computed in 7890ms and 51007ms
+574: [2018-09-25 00:41:55.973] [[34minfo[00m] Event 44030 result ttH: 69.8534 +- 3.40638e-33; result ttbb: 69.1867 +- 8.06542e-33 mem: 0.502397
+575: [2018-09-25 00:41:55.973] [[34minfo[00m] Weight computed in 6134ms and 24267ms
+576: [2018-09-25 00:43:08.869] [[34minfo[00m] Event 44368 result ttH: 97.5746 +- 3.14398e-45; result ttbb: 77.2261 +- 8.82561e-37 mem: 0.558205
+577: [2018-09-25 00:43:08.869] [[34minfo[00m] Weight computed in 3963ms and 68932ms
+578: [2018-09-25 00:43:59.983] [[34minfo[00m] Event 44608 result ttH: 118.255 +- 3.09789e-54; result ttbb: 80.9268 +- 6.55313e-38 mem: 0.593703
+579: [2018-09-25 00:43:59.983] [[34minfo[00m] Weight computed in 46072ms and 5040ms
+580: [2018-09-25 00:45:54.836] [[34minfo[00m] Event 45021 result ttH: 91.0577 +- 4.41191e-43; result ttbb: 73.2155 +- 4.10287e-35 mem: 0.554306
+581: [2018-09-25 00:45:54.836] [[34minfo[00m] Weight computed in 76883ms and 37964ms
+582: [2018-09-25 00:47:11.543] [[34minfo[00m] Event 45429 result ttH: 275.062 +- 4.29028e-123; result ttbb: 87.5669 +- 3.13825e-41 mem: 0.758522
+583: [2018-09-25 00:47:11.543] [[34minfo[00m] Weight computed in 39776ms and 36930ms
+584: [2018-09-25 00:47:59.557] [[34minfo[00m] Event 45551 result ttH: 130.829 +- 2.12153e-60; result ttbb: 74.882 +- 2.82753e-35 mem: 0.635985
+585: [2018-09-25 00:47:59.557] [[34minfo[00m] Weight computed in 27577ms and 20436ms
+586: [2018-09-25 00:50:04.477] [[34minfo[00m] Event 45625 result ttH: 128.168 +- 7.56533e-59; result ttbb: 75.2828 +- 3.34355e-36 mem: 0.62997
+587: [2018-09-25 00:50:04.477] [[34minfo[00m] Weight computed in 12009ms and 112910ms
+588: [2018-09-25 00:57:23.196] [[34minfo[00m] Event 45633 result ttH: 84.602 +- 2.26705e-40; result ttbb: 79.1289 +- 4.39547e-38 mem: 0.516714
+589: [2018-09-25 00:57:23.196] [[34minfo[00m] Weight computed in 10910ms and 427807ms
+590: [2018-09-25 00:58:15.594] [[34minfo[00m] Event 46350 result ttH: 75.6303 +- 5.2369e-37; result ttbb: 73.8916 +- 1.00966e-34 mem: 0.505814
+591: [2018-09-25 00:58:15.594] [[34minfo[00m] Weight computed in 30227ms and 22167ms
+592: [2018-09-25 01:02:25.147] [[34minfo[00m] Event 46373 result ttH: 84.1901 +- 7.00451e-40; result ttbb: 72.4131 +- 5.40382e-35 mem: 0.537601
+593: [2018-09-25 01:02:25.147] [[34minfo[00m] Weight computed in 15120ms and 234432ms
+594: [2018-09-25 01:02:54.698] [[34minfo[00m] Event 46464 result ttH: 162.824 +- 9.24603e-74; result ttbb: 76.9157 +- 3.10339e-36 mem: 0.679171
+595: [2018-09-25 01:02:54.698] [[34minfo[00m] Weight computed in 17037ms and 12514ms
+596: [2018-09-25 01:03:25.725] [[34minfo[00m] Event 46531 result ttH: 310.945 +- 1.9455e-138; result ttbb: 77.3035 +- 2.88708e-36 mem: 0.800892
+597: [2018-09-25 01:03:25.725] [[34minfo[00m] Weight computed in 16703ms and 14323ms
+598: [2018-09-25 01:04:02.974] [[34minfo[00m] Event 46808 result ttH: 73.0097 +- 2.20573e-34; result ttbb: 72.1297 +- 9.76256e-34 mem: 0.503031
+599: [2018-09-25 01:04:02.974] [[34minfo[00m] Weight computed in 3595ms and 33648ms
+600: [2018-09-25 01:04:03.072] [[34minfo[00m] Event 46945 result ttH: inf +- 0; result ttbb: inf +- 0 mem: -nan
+601: [2018-09-25 01:04:03.072] [[34minfo[00m] Weight computed in 53ms and 44ms
+602: [2018-09-25 01:04:42.536] [[34minfo[00m] Event 47242 result ttH: 704.675 +- 0; result ttbb: 78.9859 +- 4.96343e-37 mem: 0.899209
+603: [2018-09-25 01:04:42.536] [[34minfo[00m] Weight computed in 540ms and 38923ms
+604: [2018-09-25 01:06:15.619] [[34minfo[00m] Event 47268 result ttH: 72.5436 +- 1.76726e-34; result ttbb: 71.9905 +- 5.20456e-34 mem: 0.501914
+605: [2018-09-25 01:06:15.619] [[34minfo[00m] Weight computed in 58579ms and 34502ms
+606: [2018-09-25 01:06:28.657] [[34minfo[00m] Event 47391 result ttH: 75.8384 +- 7.3309e-36; result ttbb: 71.2719 +- 1.23854e-33 mem: 0.515521
+607: [2018-09-25 01:06:28.657] [[34minfo[00m] Weight computed in 910ms and 12126ms
+608: [2018-09-25 01:07:00.407] [[34minfo[00m] Event 47577 result ttH: 70.8946 +- 6.70408e-34; result ttbb: 70.6788 +- 1.95748e-33 mem: 0.500762
+609: [2018-09-25 01:07:00.407] [[34minfo[00m] Weight computed in 15099ms and 16651ms
+610: [2018-09-25 01:07:40.398] [[34minfo[00m] Event 47976 result ttH: 72.7053 +- 3.19101e-35; result ttbb: 73.9762 +- 5.07714e-35 mem: 0.495668
+611: [2018-09-25 01:07:40.398] [[34minfo[00m] Weight computed in 18785ms and 21203ms
+612: [2018-09-25 01:10:06.377] [[34minfo[00m] Event 47983 result ttH: 143.173 +- 2.83558e-65; result ttbb: 79.2699 +- 1.74037e-37 mem: 0.643639
+613: [2018-09-25 01:10:06.377] [[34minfo[00m] Weight computed in 11798ms and 134180ms
+614: [2018-09-25 01:10:46.296] [[34minfo[00m] Event 48122 result ttH: 71.7153 +- 5.26954e-34; result ttbb: 69.4031 +- 1.09124e-32 mem: 0.508193
+615: [2018-09-25 01:10:46.296] [[34minfo[00m] Weight computed in 6200ms and 33718ms
+616: [2018-09-25 01:11:03.728] [[34minfo[00m] Event 48219 result ttH: 83.5244 +- 6.70912e-39; result ttbb: 73.5055 +- 1.38274e-34 mem: 0.531901
+617: [2018-09-25 01:11:03.728] [[34minfo[00m] Weight computed in 7205ms and 10226ms
+Info in <TTree::SaveAs>: ROOT file mem_diLeptonic_weightsttH.root has been created
+algomez@t3ui02:~/work/ttH/CMSSW_9_4_9/src/MoMEMta/Tutorials/build$ ./mem_dileptonic/mem_comparison_dileptonic.exe ttH rm screenlog.0 [Kls[Kcmsenv vi mem_comparison_dileptonic.cc ls[Kcmsenv ls[Kcd ../MoMEMta/Tutorials/mem_dileptonic/ttH [K[2Plscrab status crab_projects/v20180917_withME/crab_TTbb_sl_v20180917_withME/algomez@t3ui02:~/work/ttH/CMSSW_9_4_9/src/MoMEMta/Tutorials/build$ ls[Kcrab status crab_projects/test/crab_ttHTobb_test/[3@TTbar_had1_test/msenv [Kls[Kcd MEAnalysis/crab_nano/ls[KttH [2Pls./bin/mg5rm -rf PROC_loop_sm-ckm_0/ls[K./bin/mg5ls[Kcd ~/work/Generation/MG5_aMC_v2_6_1-[KttH ./bin/mg5_aMC[K_aMC ls[Kcd work/Generation/MG5_aMC_v2_6_1/ls[Kexit[2Plscd work/Generation/MG5_aMC_v2_6_1/ls[K./bin/mg5_aMC [K_aMCttH [Kcd -~/work/Generation/MG5_aMC_v2_6_1ls[K./bin/mg5ls[Krm -rf PROC_loop_sm-ckm_0/[17P./bin/mg5ls[KttH [2Plscd MEAnalysis/crab_nano/ls[Kcmsenv rab status crab_projects/test/crab_TTbar_had1_test/[3PttHTobb_test/ls[Kcrab status crab_projects/v20180917_withME/crab_TTbb_sl_v20180917_withME/algomez@t3ui02:~/work/ttH/CMSSW_9_4_9/src/MoMEMta/Tutorials/build$ ls[KttH cd ../MoMEMta/Tutorials/mem_dileptonic/ls[Kcmsenv ls[Kvi mem_comparison_dileptonic.cc cmsenv [Kls[Krm screenlog.0 ./mem_dileptonic/mem_comparison_dileptonic.exe ttH [K
+algomez@t3ui02:~/work/ttH/CMSSW_9_4_9/src/MoMEMta/Tutorials/build$ exit
+exit
